@@ -1,0 +1,173 @@
+C:\Urban\Urban\URBEL\Urban\Urban\bin\Debug\Urban.exe.config
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.exe
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.pdb
+C:\Urban\Urban\URBEL\Urban\Urban\bin\Debug\Urban.exe
+C:\Urban\Urban\URBEL\Urban\Urban\bin\Debug\Urban.pdb
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\ResolveAssemblyReference.cache
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.Form1.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmDOC.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmDOCPretraga.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmIzvestaj.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmIzvSettings.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmKorisnici.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmNaziv.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPocetak.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPregledUticaji.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPretraga.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPretragaZaduzenja.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmProgrami.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmRezultat.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmSearchProg.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmSignOn.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmSnimanje.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmUticaji.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmZaduzenja.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.Properties.Resources.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmObrad.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmDosije.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPretragaDosije.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\bin\Debug\Urban.exe.config
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.exe
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.pdb
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\bin\Debug\Urban.exe
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\bin\Debug\Urban.pdb
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.Form1.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmDOC.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmDOCPretraga.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmDosije.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmIzvestaj.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmIzvSettings.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmKorisnici.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmNaziv.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmObrad.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPocetak.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPregledUticaji.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPretraga.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPretragaDosije.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPretragaZaduzenja.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmProgrami.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmRezultat.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmSearchProg.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmSignOn.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmSnimanje.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmUticaji.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmZaduzenja.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.Properties.Resources.resources
+C:\UrbanistickiZavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.csproj.GenerateResource.Cache
+C:\Urbanisticki zavod\Urban\bin\Debug\Urban.exe.config
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.exe
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.pdb
+C:\Urbanisticki zavod\Urban\bin\Debug\Urban.exe
+C:\Urbanisticki zavod\Urban\bin\Debug\Urban.pdb
+C:\Urbanisticki zavod\Urban\obj\Debug\ResolveAssemblyReference.cache
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.Form1.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmDOC.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmDOCPretraga.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmDosije.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmIzvestaj.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmIzvSettings.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmKorisnici.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmNaziv.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmObrad.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPocetak.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPregledUticaji.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretraga.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretragaDosije.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretragaZaduzenja.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmProgrami.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmRezultat.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmSearchProg.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmSignOn.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmSnimanje.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmUticaji.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmZaduzenja.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.Properties.Resources.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Urbanisticki zavod\Urban\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmBUD.resources
+C:\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretragaBUD.resources
+C:\URBAN\Urbanisticki zavod\Urban\bin\Debug\Urban.exe.config
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.exe
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.pdb
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.csprojResolveAssemblyReference.cache
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.Form1.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmBUD.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmDOC.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmDOCPretraga.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmDosije.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmIzvestaj.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmIzvSettings.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmKorisnici.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmNaziv.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmObrad.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPocetak.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPregledUticaji.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretraga.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretragaBUD.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretragaDosije.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretragaZaduzenja.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmProgrami.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmRezultat.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmSearchProg.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmSignOn.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmSnimanje.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmUticaji.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmZaduzenja.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.Properties.Resources.resources
+C:\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.csproj.GenerateResource.Cache
+C:\URBAN\Urbanisticki zavod\Urban\bin\Debug\Urban.exe
+C:\URBAN\Urbanisticki zavod\Urban\bin\Debug\Urban.pdb
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\Urban.exe.config
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\Urban.exe
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\Urban.pdb
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\FlashControlV71.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\stdole.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.Form1.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmBUD.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmDOC.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmDOCPretraga.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmDosije.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmIzvestaj.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmIzvSettings.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmKorisnici.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmNaziv.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmObrad.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPocetak.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPregledUticaji.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretraga.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretragaBUD.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretragaDosije.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmPretragaZaduzenja.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmProgrami.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmRezultat.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmSearchProg.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmSignOn.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmSnimanje.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmUticaji.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.frmZaduzenja.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.Properties.Resources.resources
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.csproj.GenerateResource.cache
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.csproj.CoreCompileInputs.cache
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.csproj.CopyComplete
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.exe
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.pdb
+C:\Users\Nenad.Dzeverdanovic\Desktop\URBAN\Urbanisticki zavod\Urban\obj\Debug\Urban.csprojAssemblyReference.cache

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Urban">
+</Property><Property Name="Solution File" Value="C:\Urban\Urban\URBEL\Urban\Urban.sln">
+</Property><Property Name="User Options File" Value="C:\Urban\Urban\URBEL\Urban\Urban.suo">
+</Property><Property Name="Date" Value="Sunday, April 14, 2013">
+</Property><Property Name="Time" Value="11:59 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Urban.sln" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Urban.suo" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban.suo">
+</Event><Event ErrorLevel="4" Project="Urban" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Urban.csproj" Description="Project file successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Urban.csproj">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Urban.csproj.user" Description="Project user file successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Urban.csproj.user">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\DataTableHelper.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\DataTableHelper.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsDOC.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsDOC.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsIzvestaj.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsIzvestaj.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsProgrami.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsProgrami.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsZaduzenja.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsZaduzenja.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Form1.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Form1.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmDOC.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmDOC.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmDOC.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmDOC.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmDOCPretraga.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmDOCPretraga.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmDOCPretraga.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmDOCPretraga.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmIzvestaj.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmIzvestaj.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmIzvestaj.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmIzvestaj.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmIzvSettings.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmIzvSettings.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmIzvSettings.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmIzvSettings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmKorisnici.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmKorisnici.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmKorisnici.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmKorisnici.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmNaziv.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmNaziv.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmNaziv.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmNaziv.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmObrad.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmObrad.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmObrad.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmObrad.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPocetak.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPocetak.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPocetak.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPocetak.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPregledUticaji.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPregledUticaji.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPregledUticaji.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPregledUticaji.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPretraga.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPretraga.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPretraga.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPretraga.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPretragaZaduzenja.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPretragaZaduzenja.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPretragaZaduzenja.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPretragaZaduzenja.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmProgrami.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmProgrami.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmProgrami.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmProgrami.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmRezultat.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmRezultat.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmRezultat.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmRezultat.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmSearchProg.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmSearchProg.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmSearchProg.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmSearchProg.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmSignOn.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmSignOn.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmSignOn.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmSignOn.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmSnimanje.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmSnimanje.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmSnimanje.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmSnimanje.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmUticaji.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmUticaji.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmUticaji.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmUticaji.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmZaduzenja.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmZaduzenja.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmZaduzenja.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmZaduzenja.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Pomocna.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Pomocna.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Program.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Program.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptDetails.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptDetails.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptDOC.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptDOC.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptNapomene.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptNapomene.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptProgrami.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptProgrami.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptRegupr.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptRegupr.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptZaduzenja.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptZaduzenja.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\UrbanDataSet.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\UrbanDataSet.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\UrbanDataSet.Designer.cs" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\UrbanDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\app.config" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\app.config">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Properties\Settings.settings" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\UrbanDataSet.xsc" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\UrbanDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\UrbanDataSet.xsd" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\UrbanDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\UrbanDataSet.xss" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\UrbanDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\DISK06.ICO" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\DISK06.ICO">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\error.ico" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\error.ico">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\delete_16x.ico" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\delete_16x.ico">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\db.ico" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\db.ico">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\users.ico" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\users.ico">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\search.ico" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\search.ico">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\globe.ico" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\globe.ico">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsIzvestaj.xsc" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsIzvestaj.xsc">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsIzvestaj.xsd" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsIzvestaj.xsd">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsIzvestaj.xss" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsIzvestaj.xss">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\Folder.ico" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\Folder.ico">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\search4printer.ico" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\search4printer.ico">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Resources\otheroptions.ico" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Resources\otheroptions.ico">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\grb_plavi.jpg" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\grb_plavi.jpg">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Gane.jpg" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Gane.jpg">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\To je to.jpg" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\To je to.jpg">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsDOC.xsc" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsDOC.xsc">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsDOC.xsd" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsDOC.xsd">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsDOC.xss" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsDOC.xss">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsProgrami.xsc" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsProgrami.xsc">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsProgrami.xsd" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsProgrami.xsd">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsProgrami.xss" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsProgrami.xss">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsZaduzenja.xsc" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsZaduzenja.xsc">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsZaduzenja.xsd" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsZaduzenja.xsd">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\dsZaduzenja.xss" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\dsZaduzenja.xss">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\excel.jpg" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\excel.jpg">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Form1.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmDOC.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmDOC.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmDOCPretraga.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmDOCPretraga.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmIzvestaj.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmIzvestaj.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmIzvSettings.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmIzvSettings.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmKorisnici.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmKorisnici.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmNaziv.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmNaziv.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmObrad.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmObrad.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPocetak.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPocetak.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPregledUticaji.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPregledUticaji.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPretraga.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPretraga.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmPretragaZaduzenja.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmPretragaZaduzenja.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmProgrami.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmProgrami.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmRezultat.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmRezultat.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmSearchProg.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmSearchProg.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmSignOn.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmSignOn.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmSnimanje.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmSnimanje.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmUticaji.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmUticaji.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\frmZaduzenja.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\frmZaduzenja.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Properties\Resources.resx" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptDetails.rpt" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptDetails.rpt">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptDOC.rpt" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptDOC.rpt">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptNapomene.rpt" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptNapomene.rpt">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptProgrami.rpt" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptProgrami.rpt">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptRegupr.rpt" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptRegupr.rpt">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\rptZaduzenja.rpt" Description="File successfully backed up as C:\Urban\Urban\URBEL\Urban\Backup\Urban\rptZaduzenja.rpt">
+</Event><Event ErrorLevel="1" Project="Urban" Source="Urban\Urban.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Urban.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Urban" Source="Urban\Urban.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="" Source="..\..\UrbelWeb\" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="Urban.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Urban.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Urban" Source="Urban\Urban.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

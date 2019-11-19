@@ -1,0 +1,4485 @@
+<?xml version="1.0" standalone="yes"?>
+<dsIzvestaj xmlns="http://tempuri.org/dsIzvestaj.xsd">
+  <Napomena>
+    <id>NAPOMENA I :</id>
+    <opis>Ovim izvestajem nisu obuhvacene obaveze iz poverljivih dokumenata.</opis>
+    <prikazuje>true</prikazuje>
+  </Napomena>
+  <Napomena>
+    <id>NAPOMENA II :</id>
+    <opis>Odlukama o pristupanju izradi planova u poglavljima I, II, III i IV obuhvacen je prethodni petogodisnji period.</opis>
+    <prikazuje>true</prikazuje>
+  </Napomena>
+  <Napomena>
+    <id>NAPOMENA III :</id>
+    <opis>U grafickom prilogu nisu ucrtane stecene obaveze, kao ni privremene dozvole, pod ID  brojem : 3421, 4744, 4697, 3826, 3929, 3972, 3973, 3974, 3992.</opis>
+    <prikazuje>true</prikazuje>
+  </Napomena>
+  <Napomena>
+    <id>NAPOMENA IV : </id>
+    <opis>Na trazenom podrucju aktivni su sledeci Programi za irzradu planskih dokumenata : 1. PROGRAM ZA NASELJE BUSIJE</opis>
+    <prikazuje>true</prikazuje>
+  </Napomena>
+  <Predmet>
+    <id>1</id>
+    <naziv>ODLUKA O DUP-U TRI STAMBENE ZAJEDNICE NA TERITORI
+JI OPSTINE ZEMUN SL.L.14/63,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  226</kart>
+    <IzDop>
+      <id>1</id>
+      <opis>USLOVNO STAVLJEN VAN SNAGE ODLUKOM O DUP-U SEDAM
+MZ U ZEMUNU, SL.L.17/67,</opis>
+    </IzDop>
+    <IzDop>
+      <id>1</id>
+      <opis>PROMENJENA - FAKTICKI DELOM STAVLJENA VAN SNAGE
+REGULACIONIM PLANOM ZA IZGRADNJU PRIMARNOG CEVO
+VODA OD CS "BEZANIJA B" U NOVOM BEOGRADU DO KON
+ZUMA U UGRINOVACKOJ ULICI, SL.L. 15/01</opis>
+    </IzDop>
+    <IzDop>
+      <id>1</id>
+      <opis>OBUSTAVLJA SE SPROVODJENJE GENERALNIM PLANOM
+BEOGRADA 2021., SL.L. 27/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>5</id>
+    <naziv>ODLUKA O DUP-U DVA BLOKA U ZEMUNU, SL. L. 14/64,
+ARH. BR. **********, BIBL. BR. *******,REG.BR.5
+
+STAVLJENA VAN SNAGE PO ODLUCI SL.L 30/03, REG.BR.
+4245, SHODNO CLANU 169. ZAKONA SL.GL. 47/03
+          </naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  224</kart>
+  </Predmet>
+  <Predmet>
+    <id>13</id>
+    <naziv>ODLUKA O DUP-U XXIV MZ U ZEMUNU, SL.L. 7/66,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>22</id>
+    <naziv>ODLUKA O DUP-U AUTOPUTA KROZ BEOGRAD, SL.L. 17/67</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>   64</kart>
+    <IzDop>
+      <id>22</id>
+      <opis>IZMENJENA I DOPUNJENA ODLUKOM O DUP-U TOPLIFIKA-
+CIJE PODRUCJA NA DESNOJ OBALI SAVE, SL.L.7/89,</opis>
+    </IzDop>
+    <IzDop>
+      <id>22</id>
+      <opis>FORMALNO ALI NE I FAKTICKI PROMENJENA ODLUKOM O
+DUP-U GLAVNOG FEKALNOG KOLEKTORA BOLECKO-VRCIN-
+SKOG KANALIZACIONOG SISTEMA OD VRCINA DO DUNAVA,
+SL.L. 8/92,</opis>
+    </IzDop>
+    <IzDop>
+      <id>22</id>
+      <opis>DOPUNJENA DUP-OM MAGISTRALNOG TOPLOVODA DUZ ULICE
+SPANSKIH BORACA OD TRECEG BULEVARA DO BULEVARA
+NIKOLE TESLE U NOVOM BEOGRADU, SL.L. 5/95,</opis>
+    </IzDop>
+    <IzDop>
+      <id>22</id>
+      <opis>DOPUNJENA - FAKTICKI DELOM STAVLJENA VAN SNAGE
+REGULACIONIM PLANOM ZA REKONSTRUKCIJU CS "VRA-
+CAR 2" I IZGRADNJU PRIMARNOG POTISNOG CEVOVODA 
+DRUGE VISINSKE ZONE DUZ AUTO-PUTA DO UL. VOJISLA
+VA ILICA, SL.L. 15/96</opis>
+    </IzDop>
+    <IzDop>
+      <id>22</id>
+      <opis>PROMENJENA - FAKTICKI DELOM STAVLJENA VAN SNAGE 
+REGULACIONIM PLANOM ZA IZGRADNJU PRIMARNOG CEVO
+VODA OD CS "BEZANIJA B" U NOVOM BEOGRADU DO KON
+ZUMA U UGRINOVACKOJ ULICI U ZEMUNU, SL.L. 15/01</opis>
+    </IzDop>
+    <IzDop>
+      <id>22</id>
+      <opis>DELOM DOPUNJENA PLANOM DETALJNE REGULACIJE ZA 
+IZGRADNJU DELA GRADSKOG GASOVODA, SL.L. 10/06</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>23</id>
+    <naziv>ODLUKA O DUP-U SEDAM MZ U ZEMUNU, SL.L. 17/67</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  213</kart>
+  </Predmet>
+  <Predmet>
+    <id>36</id>
+    <naziv>ODLUKA O DUP-U REKONSTRUKCIJE DELA I MZ U ZEMUNU,
+SL.L.4/68,A</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  201</kart>
+    <IzDop>
+      <id>36</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>42</id>
+    <naziv>ODLUKA O DUP-U XI MZ OPSTINE ZEMUN,SL.L.24/68,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  216</kart>
+    <IzDop>
+      <id>42</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>43</id>
+    <naziv>ODLUKA O DUP-U REKONSTRUKCIJE JUZNOG DELA I MZ U              
+ZEMUNU, SL.L.6/69,A</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  202</kart>
+    <IzDop>
+      <id>43</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>46</id>
+    <naziv>ODLUKA O DUP-U IV MZ OPSTINE ZEMUN,SL.L.6/69,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  204</kart>
+    <IzDop>
+      <id>46</id>
+      <opis>ISPRAVKA TEKSTA, SL.L. 13/69</opis>
+    </IzDop>
+    <IzDop>
+      <id>46</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>52</id>
+    <naziv>ISPRAVKA TEKSTA ODLUKE O DUP-U IV MZ OPSTINE
+ZEMUN, SL.L.13/69,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>58</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU CEVOVODA ZA ODVOD OTPADNIH VODA
+SA KOMPLEKSA OSNOVNE SKOLE "STEVAN SREMAC" U DO-
+BANOVCIMA,SL.L.18/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>59</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA REKONSTRUKCIJU STAMBENO-POSLOVNOG OBJEKTA
+NA UGLU ULICA ZMAJ JOVINE,DUNAVSKOG KEJA I MATIJE
+GUPCA U ZEMUNU, SL.L.18/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>61</id>
+    <naziv>RESENJE O UTRDJIVANJU USLOVA ZA UREDJENJE PROSTO-
+RA ZA IZGRADNJU PODZEMNOG SKLADISTA ZAPALJIVIH
+TECNOSTI U DOBANOVCIMA NA KAT.PARCELAMA BROJ 5462     
+I 5463,SL.L.18/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>76</id>
+    <naziv>ISPRAVKA RESENJA O UTVRDJIVANJU USLOVA ZA IZGRAD-
+NJU DOMA KULTURE U JAKOVU, SL.L.18/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>77</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA PRETVARANJE ZAJEDNICKIH PROSTORIJA TAVANA
+U STAMBENI PROSTOR U UL.S.DUKICA BR.2 U ZEMUNU,
+SL.L.19/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>102</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU FEKALNOG KOLEKTORA OD UL.CETINJ-
+SKE DO KARADJORDJEVOG TRGA U ZEMUNU, SL.L.17/88</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>153</id>
+    <naziv>RESENJE O ISPRAVCI RESENJA IZVRSNOG SAVETA SO
+ZEMUN BR.353-627/87-III OD 11.MAJA 1987.GODINE
+O UTVRDJIVANJU USLOVA ZA UREDJENJE PROSTORA ZA 
+IZGRADNJU PRIVREMENOG OBJEKTA BUTIKA NA DELOVI-
+MA KATASTARSKIH PARCELA BR.5367/2 I 5368/2, KO
+BATAJNICA, SL.L.22/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>182</id>
+    <naziv>ODLUKA O DUP-U DELA MEDJUNARODNOG PUTA E-5,OPSTI-
+NA ZEMUN,SL.L.13/70,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  595</kart>
+    <IzDop>
+      <id>182</id>
+      <opis>IZMENA I DOPUNA, SL.L.25/73,</opis>
+    </IzDop>
+    <IzDop>
+      <id>182</id>
+      <opis>DOPUNJENA DUP-OM ZA IZGRADNJU GLAVNOG CEVOVODA SA
+PRATECIM OBJEKTIMA SISTEMA ZA NAVODNJAVANJE "ZE-
+MUN" U ZEMUNU, SL.L. 17/94</opis>
+    </IzDop>
+    <IzDop>
+      <id>182</id>
+      <opis>DELOM SPROVODIV PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>182</id>
+      <opis>DELOM MENJA - FAKTICKI ALI NE I FORMALNO STAV-
+LJENA VAN SNAGE PLONOM DETALJNE REGULACIJE STAM-
+BENOG NASELJA "ALTINA" U ZEMUNU, SL.L. 4/05,</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>183</id>
+    <naziv>ODLUKA O DUP-U BLOKA IZMEDJU ULICA: DAVIDOVICEVE,
+MARSALA TITA,PRERADOVICEVE I KOSOVSKE (BLOK 35) U
+STAROM JEZGRU ZEMUNA,SL.L.13/70,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  206</kart>
+  </Predmet>
+  <Predmet>
+    <id>194</id>
+    <naziv>ODLUKA O UTVRDJIVANJU USLOVA ZA PRETVARANJE ZAJED-      
+NICKIH PROSTORIJA U STANOVE, SL.L.25/I/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>204</id>
+    <naziv>ODLUKA O DUP-U DELA INDUSTRIJSKE ZONE PORED
+AUTO-PUTA BEOGRAD-ZAGREB, SL.L. 7/71,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>   63</kart>
+  </Predmet>
+  <Predmet>
+    <id>206</id>
+    <naziv>ODLUKA O DUP-U DELA IV MESNE ZAJEDNICE U BA-
+TAJNICI,SL.L.14/71,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  596</kart>
+  </Predmet>
+  <Predmet>
+    <id>216</id>
+    <naziv>ODLUKA O DUP-U RETENZIJE U BLOKU 9-B U NOVOM
+BEOGRADU, SL.L. 4/72,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  225</kart>
+  </Predmet>
+  <Predmet>
+    <id>219</id>
+    <naziv>ODLUKA O DUP-U IZLETISTA U GORNJEM ZEMUNU, SL.L.
+7/72</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  592</kart>
+  </Predmet>
+  <Predmet>
+    <id>221</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU KOMANDNOG VODA 1 KV OD CS "SUR-
+CIN" DO GRANICE DUP-A AERODROMA "BEOGRAD",     
+SL.L.25/I/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>222</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU TS 10/0,4 KV "JANKO CMELIK-
+-FRUSKOGORSKA" U DOBANOVCIMA, SL.L.25/I/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>223</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA TS 10/0,4 KV "MARSALA TITA-S.JOVANOVIC"
+U DOBANOVCIMA, SL.L.25/I/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>224</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU TS 10/0,4 KV "SONJA MARINKOVIC" 
+U ZEMUNU, SL.L.25/I/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>225</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU TS 10/0,4 KV "PARTIZANSKA" U
+DOBANOVCIMA, SL.L.25/I/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>226</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU TS 10/0,4 KV SA PRIKLJUCNIM VO-
+DOM 10 KV ZA POTREBE KCS "SURCIN", SL.L.25/I/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>227</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU MONTAZNOG OBJEKTA ZA SMESTAJ
+INTERVENTNIH EKIPA EDB-A U KOMPLEKSU TS 35/10 KV
+"ZEMUN II" U NOVOGRADSKOJ ULICI U ZEMUNU, SL.L.
+25/I</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>228</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU DOMA KULTURE U JAKOVU, SL.L.
+25/I</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>229</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA REKONSTRUKCIJU DELA KOMPLEKSA PKB "BRAT-
+STVO" U SURCINU, SL.L.25/I/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>230</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-     
+TORA ZA IZGRADNJU HRISCANSKE ADVENTISTICKE CRKVE
+U BECMENU, SL.L.25/I/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>237</id>
+    <naziv>ODLUKA O DUP-U PUTNICKOG ZELEZNICKOG CVORA U
+BEOGRADU-PRVI DEO,SL.L.13/72,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  140</kart>
+    <IzDop>
+      <id>237</id>
+      <opis>IZMENA, SL.L.22/76,</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>IZMENA I DOPUNA,SL.L.8/77,A</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>PROMENJENA ODLUKOM O DUP-U PODRUCJA IZMEDJU ULI-
+CA:BULEVAR VOJVODE MISICA,AUTO-PUTA,BULEVAR VOJ-
+VODE PUTNIKA I ZASTITNOG POJASA ZELEZNICKE PRUGE,
+SL.L.15/82,</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>PROMENJENA ODLUKOM O DUP-U REGULACIJE TOPCIDERSKE
+REKE OD KM.10+900 DO KM.12+300,SL.L.8/88,A</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>DOPUNJENA ODLUKOM O DUP-U TOPLOVODNE MREZE GREJ-
+NOG PODRUCJA TOPLANE "DUNAV", SL.L.15/88,</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>IZMENJENA I DOPUNJENA ODLUKOM O DUP-U TOPLIFIKA-
+CIJE PODRUCJA NA DESNOJ OBALI SAVE, SL.L. 7/89,</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>DOPUNJENA - FAKTICKI DELOM STAVLJENA VAN SNAGE
+REGULACIONIM PLANOM ZA REKONSTRUKCIJU CS "VRA-
+CAR 2" I IZGRADNJU PRIMARNOG POTISNOG CEVOVODA
+DRUGE VISINSKE ZONE DUZ AUTOPUTA DO UL. VOJISLA
+VA ILICA, SL.L. 15/96</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>DELOM STAVLJENA VAN SNAGE REGULACIONIM PLANOM
+PROSTORNE CELINE DEDINJE, SL.L. 1/200</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>IZMENJENA - FAKTICKI DELOM STAVLJENA VAN SNAGE
+REGULACIONIM PLANOM BLOKOVA 41a, 41 I 43 U NOVOM
+BEOGRADU, SL.L. 12/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>FAKTICKI, ALI NE I FORMALNO, DELOM STAVLJENA VAN
+SNAGE REGULACIONIM PLANOM DVA BLOKA IZMEDJU BULE
+VARA JNA I ULICA: BOKELJSKE, NEBOJSINE I KARADJOR
+DJEVOG PARKA, SL.L. 13/99</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>DOPUNJENA PLANOM DETALJNE REGULACIJE ZA IZGRADNJU
+KANALIZACIONE CRPNE STANICE "PRISTANISTE", SL.L.
+23/0</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>DELOM DOPUNJENA PLANOM DETALJNE REGULACIJE ZA 
+IZGRADNJU DELA GRADSKOG GASOVODA, SL.L. 10/06</opis>
+    </IzDop>
+    <IzDop>
+      <id>237</id>
+      <opis>DELOM STAVLJENA VAN SNAGE PLANOM DETALJNE REGULAC-
+IJE SAOBRACAJNICE JURIJA GAGARINA NA DELU ISPOD 
+ZELEZNICKE PRUGE, SL.L. 25/06</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>263</id>
+    <naziv>ODL0KA O DUP-U ZA BLOK IZMEDJU ULICA:MARSALA TITA,
+DOSITEJEVE,GAJEVE I ZMAJ JOVINE- ZEMUN,SL.L.1/73,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  208</kart>
+  </Predmet>
+  <Predmet>
+    <id>271</id>
+    <naziv>ODLUKA O IZMENI DUP-A SEDAM MESNIH ZAJEDNICA
+U ZEMUNU,SL.L.5/73,A</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>277</id>
+    <naziv>ODLUKA O DUP-U DELA ULICE CARA DUSANA U ZEMUNU,
+SL.L. 15/73</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  217</kart>
+  </Predmet>
+  <Predmet>
+    <id>279</id>
+    <naziv>ODLUKA O DUP-U DELA BATAJNICKOG PUTA, SL.L.
+15/7</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  610</kart>
+    <IzDop>
+      <id>279</id>
+      <opis>DOPUNJENA DUP-OM ZA IZGRADNJU GLAVNOG CEVOVODA
+SA PRATECIM OBJEKTIMA SISTEMA ZA NAVODNJAVANJE
+"ZEMUN" U ZEMUNU, SL.L. 17/94</opis>
+    </IzDop>
+    <IzDop>
+      <id>279</id>
+      <opis>DELOM PRESTAJE DA VAZI PLANOM DETALJNE REGULACIJE 
+PRIVREDNE ZONE GORNJI ZEMUN - ZONE 1 i 2, SL.L. 
+34/</opis>
+    </IzDop>
+    <IzDop>
+      <id>279</id>
+      <opis>DELOM PRESTAJE DA VAZI PLANOM DETALJNE REGULACIJE
+PRIVREDNE ZONE GORNJI ZEMUN - ZONE 3 i 4, SL.L.
+14/0</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>285</id>
+    <naziv>ODLUKA O DUP-U BLOKA IZMEDJU ULICA:MARSALA TITA,
+DUBROVACKE, SVETOSAVSKE I STROSMAJEROVE U ZEMUNU,
+SL.L.21/73,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  209</kart>
+  </Predmet>
+  <Predmet>
+    <id>286</id>
+    <naziv>ODLUKA O DUP-U DELA STAMBENE ZONE IZMEDJU ULICA:
+CARA DUSANA, T-8, BULEVARA LENJINA I T-7 U ZE-
+MUNU,SL.L.21/73,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  220</kart>
+    <IzDop>
+      <id>286</id>
+      <opis>IZMENA I DOPUNA,SL.L.25/83,</opis>
+    </IzDop>
+    <IzDop>
+      <id>286</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>293</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI DUP-A DELA MEDJUNA-
+RODNOG PUTA E-5 NA TERITORIJI OPSTINE ZEMUN,
+SL.L.25/73,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>298</id>
+    <naziv>ODLUKA O IZMENI DUP-A  XXIV MESNE ZAJEDNICE
+U ZEMUNU,SL.L.10/74,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+    <IzDop>
+      <id>298</id>
+      <opis>STAVLJEN VAN SNAGE ODLUKOM O IZMENI I DOPUNI ODLUKE O DUP-U STAMBENOG
+KOMPLEKSA "KAMENDIN" U ZEMUNU, SL.L. 6/89,</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>303</id>
+    <naziv>ODLUKA O DUP-U INDUSTRIJSKE ZONE "GORNJI ZEMUN",
+SL.L. 13/74</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  611</kart>
+    <IzDop>
+      <id>303</id>
+      <opis>PROMENJENA ODLUKOM O DUP-U STAMBENOG NASELJA IZ-
+MEDJU BULEVARA LENJINA,NAUCNO-SKOLSKOG CENTRA,
+PRVOG BULEVARA I SAOBRACAJNICE T-12 U ZEMUNU
+(KAMENDIN),SL.L.7/79,A</opis>
+    </IzDop>
+    <IzDop>
+      <id>303</id>
+      <opis>DOPUNJENA DUP-OM ZA IZGRADNJU GLAVNOG CEVOVODA
+SA PRATECIM OBJEKTIMA SISTEMA ZA NAVODDNJAVANJE
+"ZEMUN" U ZEMUNU, SL.L. 17/94</opis>
+    </IzDop>
+    <IzDop>
+      <id>303</id>
+      <opis>DELOM PRESTAJE DA VAZI PLANOM DETALJNE REGULACIJE
+PRIVREDNE ZONE GORNJI ZEMUN - ZONE 1 i 2, SL.L. 
+34/</opis>
+    </IzDop>
+    <IzDop>
+      <id>303</id>
+      <opis>DELOM PRESTAJE DA VAZI PLANOM DETALJNE REGULACIJE
+PRIVREDNE ZONE GORNJI ZEMUN - ZONE 3 i 4, SL.L.
+14/0</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>304</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI DUP-A SEDAM MESNIH
+ZAJEDNICA U ZEMUNU,SL.L.13/74,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>311</id>
+    <naziv>ODLUKA O DUP-U PRVE I DRUGE ETAPE RAZVOJA
+AERODROMA "BEOGRAD",SL.L.13/74,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+    <IzDop>
+      <id>311</id>
+      <opis>IZMENA,SL.L.11/76,</opis>
+    </IzDop>
+    <IzDop>
+      <id>311</id>
+      <opis>IZMENA I DOPUNA,SL.L.30/79,</opis>
+    </IzDop>
+    <IzDop>
+      <id>311</id>
+      <opis>STAVLJENA VAN SNAGE ODLUKOM O DUP-U AERODROMA
+"BEOGRAD", SL.L.25/88,</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>321</id>
+    <naziv>ODLUKA O DUP-U MAGISTRALNOG GASOVODA GRADA
+BEOGRADA,SL.L.2/75,A</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  594</kart>
+    <IzDop>
+      <id>321</id>
+      <opis>PROMENJENA I DOPUNJENA ODLUKOM O DUP-U 
+REGIONALNOG VODOVODA MAKIS-RAKOVICA-SOPOT-
+MLADENOVAC - DEONICA "PETLOVO BRDO"-ZUCKA
+KAPIJA, SL.L. 11/89</opis>
+    </IzDop>
+    <IzDop>
+      <id>321</id>
+      <opis>DOPUNJENA DUP-OM VANGRADSKOG TOPLOVODA OD TE-TO
+"NIKOLA TESLA" U OBRENOVCU DO TO "NOVI BEOGRAD"
+SL.L. 16/93</opis>
+    </IzDop>
+    <IzDop>
+      <id>321</id>
+      <opis>FAKTICKI DELOM STAVLJENA VAN SNAGE REGULACIONIM
+PLANOM ZA IZGRADNJU TS 35/6 KV "OSTRUZNICA" SA
+DVOSTRUKIM VODOM 35 KV DO TS 110/35 KV "TOPLANA
+NOVI BEOGRAD", SL.L. 24/95</opis>
+    </IzDop>
+    <IzDop>
+      <id>321</id>
+      <opis>FAKTICKI DELOM STAVLJENA VAN SNAGE GENERALNIM
+PLANOM SA ELEMENTIMA REGULACIONOG PLANA ZA IZ-
+GRADNJU MREZE ELEKTRODISTRIBUTIVNIH POSTROJENJA
+TS 35/10 kV "UGRINOVCI", PROSIRENJE TS 35/10 kV
+"DOBANOVCI" I IZGRADNJU VODOVA 35 kV OD TS 110/35
+kV "BEOGRAD 9" DO TS 35/10 kV "UGRINOVCI" I TS
+35/10 kV "DOBANOVCI", SL.L. 19/01</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>336</id>
+    <naziv>ODLUKA O DUP-U  REKONSTRUKCIJE BLOKA U ZEMUNU,
+SL.L. 10/75</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  207</kart>
+  </Predmet>
+  <Predmet>
+    <id>338</id>
+    <naziv>ODLUKA O DUP-U NAUCNO-SKOLSKOG CENTRA U ZEMUN
+POLJU,SL.L. 13/75</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  591</kart>
+    <IzDop>
+      <id>338</id>
+      <opis>PROMENJNA GRANICA ODLUKOM O DUP-U STAMBENOG NA-
+SELJA IZMEDJU BULEVARA LENJINA,NAUCNO-SKOLSKOG
+CENTRA, PRVOG BULEVARA I SAOBRACAJNICE T-12 U
+ZEMUNU (KAMENDIN),SL.L. 7/79,</opis>
+    </IzDop>
+    <IzDop>
+      <id>338</id>
+      <opis>PROMENJENA ODLUKOM O IZMENI I DOPUNI ODLUKE O
+DUP-U STAMBENOG KOMPLEKSA "KAMENDIN" U ZEMUNU,
+SL.L.6/89, </opis>
+    </IzDop>
+    <IzDop>
+      <id>338</id>
+      <opis>DOPUNJENA DUP-OM ZA IZGRADNJU GLAVNOG CEVOVODA
+SA PRATECIM OBJEKTIMA SISTEMA ZA NAVODNJAVANJE
+"ZEMUN" U ZEMUNU, SL.L. 17/94</opis>
+    </IzDop>
+    <IzDop>
+      <id>338</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>352</id>
+    <naziv>ODLUKA O DUP-U DELA TRANSFERZALE T-11 U ZEMUNU,
+SL.L. 21/75</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>353</id>
+    <naziv>ODLUKA O DUP-U DELA SAOBRACAJNICE T-10 U ZEMUNU,
+SL.L. 21/75</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  612</kart>
+  </Predmet>
+  <Predmet>
+    <id>361</id>
+    <naziv>ODLUKA O DUP-U SA ELEMENTIMA URBANISTICKOG
+PROJEKTA ZA REKONSTRUKCIJU BLOKA 40 U ZEMUNU,
+SL.L. 9/76,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  205</kart>
+  </Predmet>
+  <Predmet>
+    <id>367</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O DUP-U I I II ETAPE
+RAZVOJA AERODROMA BEOGRAD,SL.L. 11/76</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>371</id>
+    <naziv>ODLUKA O DUP-U ZELEZNICKE TEHNICKO-PUTNICKE
+STANICE U ZEMUNU, SL.L. 13/76</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  222</kart>
+  </Predmet>
+  <Predmet>
+    <id>372</id>
+    <naziv>ODLUKA O DUP-U DELA TRANSFERZALE T-8 OD BATAJ-
+NICKOG PUTA DO AUTO-PUTA BEOGRAD-ZAGREB (E-94),
+SL.L. 13/76</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  219</kart>
+  </Predmet>
+  <Predmet>
+    <id>377</id>
+    <naziv>ODLUKA O DUP-U BLOKA IZMEDJU ULICE CARA DUSANA,
+SAOBRACAJNICA T-6, T-8 I PRIOBALNE ZONE DUNAVA,
+SL.L.16/76,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  609</kart>
+  </Predmet>
+  <Predmet>
+    <id>394</id>
+    <naziv>ODLUKA O IZMENAMA I DOPUNAMA ODLUKE O PRIPREMANJU
+DUP-A BLOKA 9-A,11-B I 11-C NA TERITORIJI OPSTINA
+NOVI BEOGRAD I ZEMUN, SL.L.1/89,R</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>411</id>
+    <naziv>ODLUKA O DUP-U PUTNICKO-ZELEZNICKE STANICE ZEMUN
+-NOVI GRAD, SL.L.8/77, </naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  215</kart>
+    <IzDop>
+      <id>411</id>
+      <opis>PROMENJENA - FAKTICKI, ALI NE I FORMALNO DELOM
+STAVLJENA VAN SNAGE REGULACIONIM PLANOM DELA
+PODRUCJA GORNJEG ZEMUNA ZA PROSTOR IZMEDJU ULICA
+PRVOMAJSKE, GETEOVE, TRASE ZELEZNICKE PRUGE, MA-
+RIJE BURSAC I SIME SOLAJE, SL.L. 4/200</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>413</id>
+    <naziv>ODLUKA O DUP-U DELA STAMBENE ZONE U GORNJEM ZE-   
+MUNU,SL.L.11/77,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  221</kart>
+  </Predmet>
+  <Predmet>
+    <id>417</id>
+    <naziv>ODLUKA O DUP-U TRANSFERZALE T-7 U ZEMUNU,SL.L.
+14/7</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  218</kart>
+    <IzDop>
+      <id>417</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>417</id>
+      <opis>DELOM PROMENJENA - FAKTICKI ALI NE I FORMALNO 
+STAVLJENA VAN SNAGE PLANOM DETALJNE REGULACIJE
+STAMBENOG NASELJA "ALTINA", U ZEMUNU, SL.L. 4/05,</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>445</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA DOGRADNJU I REKONSTRUKCIJU OBJEKTA "NOVI
+DOM" NA UGLU ULICA BEOGRADSKA I IVANA MAZURANICA
+U ZEMUNU, SL.L.16/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>446</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-   
+TORA ZA IZGRADNJU DOMA KULTURE U JAKOVU, SL.L.
+16/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>447</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-   
+TORA ZA IZGRADNJU SAOBRACAJNICE I TEHNICKE INFRA-
+STRUKTURE ZA DEO NASELJA "DOBANOVCI" U DOBANOVCI-
+MA, SL.L. 16/88</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>448</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU SAOBRACAJNICE I TEHNICKE INFRA-
+STRUKTURE ZA BLOK IZMEDJU ULICA SAVSKE I BALKAN-
+SKE U JAKOVU, SL.L. 16/88</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>470</id>
+    <naziv>ODLUKA O DUP-U DELA BLOKA IZMEDJU BULEVARA
+AVNOJ-A,SAOBRACAJNICE 12-12,NOVOPROJEKTOVANE
+SAOBRACAJNICE I ULICE MARIJE BURSAC,SL.L.1/78
+</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  211</kart>
+    <IzDop>
+      <id>470</id>
+      <opis>IZMENA,SL.L.17/81,</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>476</id>
+    <naziv>ODLUKA O DUP-U BATAJNICE,SL.L.6/78,A</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  593</kart>
+    <IzDop>
+      <id>476</id>
+      <opis>IZMENA I DOPUNA,SL.L.20/78,</opis>
+    </IzDop>
+    <IzDop>
+      <id>476</id>
+      <opis>IZMENA I DOPUNA,SL.L.18/82,</opis>
+    </IzDop>
+    <IzDop>
+      <id>476</id>
+      <opis>FAKTICKI, ALI NE I FORMALNO, DELOM STAVLJENA VAN
+SNAGE REGULACIONIM PLANOM ZA GASIFIKACIJU NASELJA
+BATAJNICA, SL.L. 12/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>476</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>476</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI O IZMENI I DOPUNI
+ODLUKE SL.L. 23/04</opis>
+    </IzDop>
+    <IzDop>
+      <id>476</id>
+      <opis>PROMENJENA ODLUKOM O DUP-U ZA IZGRADNJU PRODUZETKA TRAMVAJSKE
+PRUGE NA VOZDOVCU, SL.L. 9/85,</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>483</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O DUP-U SEDAM
+MESNIH ZAJEDNICA U ZEMUNU,SL.L.11/78,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>484</id>
+    <naziv>ODLUKA O DUP-U UREDJENJA OBALE DUNAVA U ZEMUNU,
+SL.L. 13/78</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  200</kart>
+    <IzDop>
+      <id>484</id>
+      <opis>IZMENE I DOPUNE, SL.L. 16/90</opis>
+    </IzDop>
+    <IzDop>
+      <id>484</id>
+      <opis>DELOM STAVLJENA VAN SNAGE PLANOM DETALJNE REGULA-
+CIJE STAROG JEZGRA ZEMUNA, SL.L. 34/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>484</id>
+      <opis>NAPOMENA: NEUSAGLASENOST SL.LISTA I KATALOGA,
+SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>491</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O DUP-U 
+BATAJNICE,SL.L.20/78,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+    <IzDop>
+      <id>491</id>
+      <opis>PROMENJENA ODLUKOM O DUP-U ZA IZGRADNJU PRODUZETKA TRAMVAJSKE
+PRUGE NA VOZDOVCU, SL.L. 9/85,</opis>
+    </IzDop>
+    <IzDop>
+      <id>491</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>491</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI O IZMENI I DOPUNI
+ODLUKE SL.L. 23/04</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>493</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O DUP-U SEDAM
+MESNIH ZAJEDNICA U ZEMUNU,SL.L.21/78,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>498</id>
+    <naziv>ODLUKA O DUP-U CENTRA ZA TRGOVINU I REKREACIJU
+NA TERITORIJI OPSTINE ZEMUN,SL.L.2/79,A</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  223</kart>
+  </Predmet>
+  <Predmet>
+    <id>503</id>
+    <naziv>ODLUKA O DUP-U STAMBENOG NASELJA IZMEDJU BULEVARA
+LENJINA,NAUCNO-SKOLSKOG CENTRA,PRVOG BULEVARA I     
+SAOBRACAJNICE T-12 U ZEMUNU (KAMENDIN),SL.L.7/79
+</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>522</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O DUP-U I I II
+ETAPE RAZVOJA AERODROMA "BEOGRAD",SL.L.30/79,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>525</id>
+    <naziv>ODLUKA O DUP-U PRVOMAJSKE ULICE U ZEMUNU, SL.L.
+2/80</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  214</kart>
+    <IzDop>
+      <id>525</id>
+      <opis>PROMENJENA - FAKTICKI DELOM STAVLJENA VAN SNAGE
+REGULACIONIM PLANOM DELA PODRUCJA GORNJEG ZEMUNA
+ZA PROSTOR IZMEDJU ULICA PRVOMAJSKE, GETEOVE,
+TRASE ZELEZNICKE PRUGE, MARIJE BURSAC I SIME SO
+LAJE, SL.L. 4/01,</opis>
+    </IzDop>
+    <IzDop>
+      <id>525</id>
+      <opis>PROMENJENA - FAKTICKI DELOM STAVLJENA VAN SNAGE
+REGULACIONIM PLANOM ZA IZGRADNJU PRIMARNOG CEVO
+VODA OD CS "BEZANIJA B" U NOVOM BEOGRADU DO KON
+ZUMA U UGRINOVACKOJ ULICI, SL.L. 15/01</opis>
+    </IzDop>
+    <IzDop>
+      <id>525</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>525</id>
+      <opis>DELOM PROMENJENA - FAKTICKI ALI NE I FORMALNO 
+STAVLJENA VAN SNAGE PLANOM DETALJNE REGULACIJE 
+STAMBENOG NASELJA "ALTINA", U ZEMUNU, SL.L. 4/05,</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>527</id>
+    <naziv>ODLUKA O IZMENAMA I DOPUNAMA ODLUKE O DUP-U             
+SEDAM MESNIH ZAJEDNICA U ZEMUNU,SL.L. 5/80,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>528</id>
+    <naziv>ODLUKA O DUP-U PODRUCJA GARDOS U ZEMUNU,SL.L.
+5/80</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  210</kart>
+  </Predmet>
+  <Predmet>
+    <id>548</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O DUP-U INDUSTRIJSKE
+ZONE "AUTOPUT I",SL.L.25/80,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>562</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O DUP-U DELA BLOKA IZMEDJU
+BULEVARA AVNOJ-A,SAOBRACAJNICE 12-12,NOVOPRO-      
+JEKTOVANE SAOBRACAJNICE I ULICE MARIJE BRUSAC,
+SL.L.17/81,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>578</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI  DUP-A NASELJA
+BATAJNICA,SL.L.18/82,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+    <IzDop>
+      <id>578</id>
+      <opis>PROMENJENA ODLUKOM O DUP-U ZA IZGRADNJU PRODUZETKA TRAMVAJSKE
+PRUGE NA VOZDOVCU, SL.L. 9/85,</opis>
+    </IzDop>
+    <IzDop>
+      <id>578</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>578</id>
+      <opis>STAVLJENA VAN SNAGE PO ODLUCI O IZMENI I DOPUNI
+ODLUKE SL.L. 23/04</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>587</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O DUP-U CENTRA
+ZA TRGOVINU I REKREACIJU NA TERITORIJI OPSTINE
+ZEMUN,SL.L.25/82,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>588</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O DUP-U DELA
+STAMBENE ZONE U GORNJEM ZEMUNU,SL.L.,30/82</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>605</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O DUP-U
+DELA STAMBENE ZONE IZMEDJU ULICA CARA DUSANA,
+T-8,BULEVAR LENJINA I T-7 U ZEMUNU,SL.L.25/83,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>612</id>
+    <naziv>ODLUKA O DUP-U KLINICKO-BOLNICKOG CENTRA
+"BEZANIJSKA KOSA",SL.L.32/83,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  212</kart>
+  </Predmet>
+  <Predmet>
+    <id>658</id>
+    <naziv>ODLUKA O IZMENAMA ODLUKE O DUP-U RETENZIJE U
+BLOKU 9-B,SL.L.10/86,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>696</id>
+    <naziv>ODLUKA O PRIPREMANJU PROSTORNOG PLANA PODRUCJA
+POSEBNE NAMENE SA DETALJNOM URBANISTICKOM RAZRA-
+DOM ZA I ETAPU, SL.L. 1/86,</naziv>
+    <grupa>I PLANSKA DOKUMENTA</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>721</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU KAPELE-MRTVACNICE NA BEZANIJSKOJ
+KOSI, UL. MARIJE BURSAC U ZEMUNU, SL.L. 3/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>742</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA 
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENE
+VODOINSTALATERSKE RADIONICE U BATAJNICI U UL.
+DUNAVSKA-KOD PIJACE, SL.L. 4/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>743</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU PRILAZNOG PUTA ZA RENI BUNARE
+OD RB 35 DO RB 51, SL.L. 4/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>744</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU PRISTUPNOG PUTA ZA RB 59 DO RB
+62, SL.L. 4/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>745</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU PRILAZNOG PUTA ZA RENI BUNAR OD
+RB 63 DO RB 66, SL.L. 4/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>754</id>
+    <naziv>ODLUKA O DUP-U INDUSTRIJSKIH KOMPLEKSA IZMEDJU
+ULICA:TVORNICKE,22.OKTOBRA I TRASE BULEVARA LE-
+NJINA U ZEMUNU,SL.L.23/86,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  203</kart>
+    <IzDop>
+      <id>754</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>787</id>
+    <naziv>ODLUKA O IZMENAMA I DOPUNAMA ODLUKE O DUP-U
+SEDAM MESNIH ZAJEDNICA U ZEMUNU, SL.L. 18/87</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>808</id>
+    <naziv>ODLUKA O DUP-U DEONICE AUTO-PUTA "BRATSTVO-
+JEDINSTVO" OD DOBANOVACA DO BUBANJ POTOKA,
+SL.L.32/87,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  242</kart>
+  </Predmet>
+  <Predmet>
+    <id>833</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA 
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA ZA SNABDEVANJE U UL. PRVOMAJSKA BR.
+116-D U ZEMUNU, SL.L.5/89,A</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>834</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU AUTOPUNILISTA TNG SA PRATECIM
+SADRZAJIMA UZ BENZINSKU STANICU "ZMAJ II" U ZEMU-
+NU, SL.L. 5/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>851</id>
+    <naziv>ODLUKA O UTVRDJIVANJU USLOVA ZA PRETVARANJE
+ZAJEDNICKIH PROSTORIJA U STANOVE,METOHIJSKA
+BR. 1,3,5,7,9,JAKSICEVA BR. 6,SLOVENSKA BR.40,
+42,44,46,SL.L.15/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>865</id>
+    <naziv>ODLUKA O UP-U BLOKA IZMEDJU ULICA:JOSIPA BROZA
+TITA,MAJKE JUGOVICA,23.JULA I BEOGRADSKIH ILE-
+GALACA NA TERITORIJI OPSTINE ZEMUN U MZ "CR-
+VENI BARJAK"(BATAJNICA),SL.L.14/88,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>866</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE
+PROSTORA ZA DOGRADNJU HALE NA KOMPLEKSU RO
+"RIBARSKO GAZDINSTVO BEOGRAD"U BOLJEVCIMA,
+SL.L.14/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>891</id>
+    <naziv>ODLUKA O PRIPREMANJU IZMENA I DOPUNA ODLUKE
+O DUP-U UREDJENJA OBALE DUNAVA U ZEMUNU,SL.L.
+13/8</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>892</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A UREDJENJA PRIOBALNOG
+POJASA I IZGRADNJU OBALOUTVRDE DUZ DESNE OBALE
+DUNAVA U ZEMUNU OD RESTORANA "SARAN"DO IZLETIS-
+TA "GORNJI ZEMUN",SL.L.13/88,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>896</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU RADIONICKOG
+PROSTORA U KOMPLEKSU RO "ROTOR" U UL.TVORNIC-
+KOJ U ZEMUNU NA KAT. PARCELI 1974 KO ZEMUN,
+SL.L. 13/88</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>898</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA-SERVISA AUTO-MEHANICARSKE I VULKANI-
+ZERSKE DELATNOSTI NA DELU KAT.PARCELE 4919,
+KO DOBANOVCI,SL.L.12/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>911</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU CRPNE STANICE "ZIDINE"
+ZA ODVODNJAVANJE POLJOPRIVREDNIH POVRSINA
+IZMEDJU NASELJA BOLJEVCI - JAKOVO,SL.L.10/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>918</id>
+    <naziv>ISPRAVKA ODLUKE O DUP-U BLOKA 9A,11B I 11C
+NA TERITORIJI OPSTINA NOVI BEOGRAD I ZEMUN,
+SL.L.11/88,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>956</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O UTVRDJIVANJU USLOVA
+ZA UREDJENJE PROSTORA ZA PRETVARANJE ZAJED-
+NICKIH PROSTORA-TAVANA U UL. MARSALA TITA BR.18
+U ZEMUNU U TRI STANA,SL.L. 9/88,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>957</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU ELEKTROENERGETSKOG VO-
+DA 35 KV OD POSTOJECEG DV 35 KV DO TS 35/10 KV
+"BOLJEVCI"(DEO PODRICJA MZ ZEMUN POLJE,DOBANOV-
+CI BECMEN,JAKOVO I BOLJEVCI),SL.L. 9/88</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>984</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU DOMA KULTURE U JAKOVU
+NA KAT.PARCELI 530,529 I DELU 528 KO JAKOVO,
+SL.L.7/88
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>985</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA
+ZA UREDJENJE PROSTORA ZA IZGRADNJU PRIVRE-
+MENIH OBEJAKTA MALE PRIVREDE NA UGLU ULICA:
+STARCA VUJADINA I IVANA CANKARA U ZEMUNU NA
+KAT.PARC. 1961 KO ZEMUN,SL.L.7/88
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>986</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENIH OB-
+JEKAYTA MALE PRIVREDE U UL. BRACE SAVIC U BA-
+TAJNICI NA KATAST. PARC.3470/2 KO BATAJNICA,
+SL.L. 7/88</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>993</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O DUP-U STAMBENOG
+KOMPLEKSA "KAMENDIN" U ZEMUNU, SL.L. 6/89,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  588</kart>
+    <IzDop>
+      <id>993</id>
+      <opis>DELOM SPROVODIVA PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>994</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA DOGRADNJU I ADAPTACIJU DOMA KULTURE  
+LAZAR MAMUZIC" U SURCINU, SL.L.6/89,A</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>995</id>
+    <naziv>RESENJE O DOPUNI RESENJA O UTVRDJIVANJU USLOVA
+ZA UREDJENJE PROSTORA ZA REKONSTRUKCIJU STAMBENO-
+-POSLOVNOG OBJEKTA NA UGLU ULICA ZMAJ JOVINE,
+DUNAVSKOG KEJA I MATIJE GUPCA U ZEMUNU,SL.L.6/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>996</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU OBJEKTA MALE PRIVREDE-KLANICE 
+SA PRATECIM OBJEKTIMA NA DELU KAT. PARCELE 1785
+K.O. BECMEN, SL.L.6/89
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>997</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU PRIVREMENOG POTISNOG CEVOVODA
+OD OBJEKTA RETENZIJE U BLOKU 9-B DO DUNAVA NA
+TERITORIJI OPSTINE ZEMUN, SL.L.6/89, </naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1010</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE
+PROSTORA ZA PRETVARANJE ZAJEDNICKIH PROSTORIJA
+TAVANA U STAMBENI PROSTOR U UL. DUBROVACKA 2-A
+U ZEMUNU,SL.L.6/88
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1011</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+SAMACKOG SMESTAJA SA PRATECIM OBJEKTIMA NA
+BATAJNICKOM PUTU BR.24 OPSTINA ZEMUN,SL.L.6/88
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+    <IzDop>
+      <id>1011</id>
+      <opis>TEST ODLUKA O DUP-U STAMBENE ZAJEDNICE BROJ 5 NA BANO-
+VOM BRDU, SL.L.14/63,</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>1012</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+PODZEMNOG VODA 35 KV OD TS 35/10 KV"GALENIKA"
+DO TS 110/35 KV "BEOGRAD IX",SL.L.6/88,A</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1030</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA 
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENE
+ASFALTNE I BETONSKE BAZE "PLANUM" NA GOVEDJEM
+BRODU U ZEMUNU, SL.L.7/89,A</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1041</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU I REKONSTRUKCIJU KOMPLEKSA 
+IMT-A U DOBANOVCIMA, SL.L.8/89, </naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1042</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU OBJEKTA - STANICE ZA DEHLORISA-
+NJE PIJACE VODE U DISTRIBUCIONOM SISTEMU BEOGRADA
+- "NOVA GALENIKA" - OPSTINA ZEMUN, SL.L. 8/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1043</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU KOMBINOVANE DECIJE USTANOVE U
+DOBANOVCIMA NA PARCELAMA 298 I 299, SL.L.8/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1053</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA
+ZA UREDJENJE PROSTORA ZA IZGRADNJU SILOSA
+RO "BPI" U UL. OGNJENA PRICE BR. 1 U ZEMUNU,
+SL. L.5/88,ARH.BR.350-566/88, BIBL. BR.   
+PDS 26/88, REG.BR. 1053
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1054</id>
+    <naziv>ZAKLJUCAK O PRIPREMI USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU MONTAZNO-DEMONTAZNOG OBJEKTA TIPA
+EDB U NOVOGRADSKOJ U ZEMUNU, SL.L.5/88, </naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1088</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE       
+PROSTORA ZA IZGRADNJU STAKLENIKA ZA PROIZVO-
+DNJU CVECA NA KAT. PARC.BR.1707/1,KO JAKOVO,
+SL.L.2/88,A</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1089</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU OBJEKATA ZA GAJENJE
+PECURKI NA KAT.PARC.1644/2,KO JAKOVO,SL.L.
+2/88</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1101</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE
+PROSTORA ZA DOGRADNJU I ADAPATACIJU DOMA KUL-
+TURE "LAZAR MAMUZIC" U SURCINU,NA PARCELI 1112,
+KO SURCIN,SL.L. 1/88</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1113</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU PODZEMNOG SKLADISTA
+ZAPALJIVIH TECNOSTI RO "TEHNOHEMIJA" U DOBA-
+NOVCIMA NA KATAST. PARC.BR.5462 I 5463, KO
+DOBANOVCI,SL.L. 32/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1114</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU ELEKTRONAPOJNOG KABLA
+OD RB 81 DO VODOTORNJA "PROGAR",SL.L. 32/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1120</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PRO-
+STORA ZA IZGRADNJU FEKALNOG KOLEKTORA OD GRANI-
+CE DUP-A REKONSTRUKCIJE DELA I MZ U ZEMUNU DO
+KANALIZACIONE CRPNE STANICE "USCE" U NOVOM 
+BEOGRADU, SL.L. 29/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1121</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU I REKONSTRUKCIJU OGLED-
+NOG DOBRA "SOKO SALAS"-INSTITUTA ZA STOCARSTVO 
+U ZEMUNU,SL.L. 29/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1122</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU KOMPLESKA INDUSTRIJE
+STAOVA "INSA"U TRSCANSKOJ ULICI,SL.L.29/87,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1123</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU DELA KOLEKTORA
+U GRANICAMA DUP-A REKONSTRUKCIJE I MZ U ZEMUNU,
+SL.L.29/87,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1124</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU PRIVREMENOG OBJEKTA
+FOTOGRAFSKE RADNJE NA DELU KATAST.PARC.3529,
+KO BATAJNICA,SL.L.29/87,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1125</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU PRIVREMENOG OBJEKTA-
+PEKARE NA DELU KATAST.PARC.BR.3395/3,KO
+BATAJNICA,SL.L.29/87,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1126</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU PRIVREMENOG OBJEKTA
+ZA SNABDEVANJE NA DELU KATAST.PARC.BR.3466,
+KO BATAJNICA,SL.L. 29/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1181</id>
+    <naziv>ODLUKA O GRADSKOM GRADJEVINSKOM ZEMLJISTU
+(PRECISCEN TEKST),SL.L.25/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1196</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A BLOKA 9-A, 11-B I
+11-C NA TERITORIJI OPSTINA NOVI BEOGRAD I
+ZEMUN, SL.L. 24/87</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1197</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O PRIPREMANJU IZMENE
+I DOPUNE ODLUKE O DUP-U SEDAM MESNIH ZAJED-
+NICA U DELU KOJI SE ODNOSI NA IX I X MZ U
+ZEMUNU,SL.L.24/87</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1198</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+PODZEMNOG VODA 45 KV OD TS 35/10 KV "GALENIKA"
+DO TS 110/10 KV "BEOGRAD IX",SL.L. 24/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1244</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A ZELEZNICKE PRUGE
+SURCIN-LOKO TERETNA STANICA "ZEMUN" SA LOKO-
+TERETNOM STANICOM "ZEMUN",SL.L.21/87</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1247</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU PRIVREMENOG OBJEKTA
+ZA SNABDEVANJE NA DELOVIMA KAT.PARCELA
+12918 I 12920,KO ZEMUN,SL.L. 16/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1248</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+ROSTORA ZA IZGRADNJU PRIVREMENOG OBJEKTA ZA
+SNABDEVANJE NA DELU KATAST.PARCELE BR.13176,
+KO ZEMUN,SL.L.21/87,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1249</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA
+ZA UREDJENJE PROSTORA ZA IZGRADNJU PRIVREME-
+NOG MONTAZNOG OBJEKTA ZA SMESTAJ RADNE ZAJED-
+DNICE RO "UDARNIK" U ZEMUNU,SL.L.21/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1252</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA POLAGANJE NAPOJNOG KABLA NPO 13A 3 x 150
+mm2 OD CRPNE STANICE "SURCIN" DO TS "GALOVICA" U
+ZONI OBALOUTVRDE NA TERITORIJI OPSTINA NOVI BEO-
+GRAD I ZEMUN, SL.L. 21/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1300</id>
+    <naziv>ODLUKA O SPROVODJENJU KOMASACIJE NA PODRUCJU
+KATASTARSKIH OPSTINA BECMEN I PETROVCIC, SL.L.
+23/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1306</id>
+    <naziv>ODLUKA O DOPUNI ODLUKE O SPROVODJENJU KOMASACIJE
+NA PODRUCJU KATASTARSKIH OPSTINA BECMEN I PETROV-
+CIC, SL.L. 8/87</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1335</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENIH
+OBJEKATA MALE PRIVREDE NA UGLU ULICA S.VUJA-
+DINA I I.CANKARA U ZEMUNU NA KAT.PARCELI 1961
+I 2454 K.O.ZEMUN, SL.L.11/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1336</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+IZGRADNJU PRIVREMENIH OBJEKATA MALE PRIVREDE
+U UL.BRACE SAVIC U BATAJNICI, SL.L.11/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1359</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O DUP-U SEDAM MZ
+U ZEMUNU, SL.L. 12/89</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1360</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A ZA UREDJENJE KOMP-
+LEKSA BANKE BILJNIH GENA JUGOSLAVIJE U GORNJEM
+ZEMUNU - ZEMUN, SL.L. 12/89</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1361</id>
+    <naziv>ODLUKA O UTVRDJIVANJU USLOVA ZA PRETVARANJE
+ZAJEDNICKIH PROSTORIJA U STANOVE, SL.L.12/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1362</id>
+    <naziv>PROGRAM ZA IZGRADNJU I POSTAVLJANJE OBJEKATA
+NA NEIZGRADJENOM GRADSKOM GRADJEVINSKOM ZEM-
+LJISTU SA SADRZAJIMA ZA POTREBE MALE PRIVREDE
+NA DELU TERITORIJE OPSTINE ZEMUN, SL.L. 12/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1363</id>
+    <naziv>ZAKLJUCAK O ODREDJIVANJU NOSIOCA IZRADE DUP-A
+ZA UREDJENJE KOMPLEKSA BANKE BILJNIH GENA
+JUGOSLAVIJE U "GORNJEM ZEMUNU"-ZEMUN,SL.L.12/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1364</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU FARME ZA GAJENJE KOKA NOSILJA
+NA KAT. PARC. BR. 2764 KO UGRINOVCI, SL.L. 12/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1365</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU POSTROJENJA SISTEMA ZA
+PRECISCAVANJE OTPADNIH VODA "BATAJNICA",SL.L.
+12/8</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1396</id>
+    <naziv>REESNJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRANJU FARME ZA GAJENJE KOKA
+NOSILJA NA KAT. PARCELI 2622/2 KO JAKOVO,
+SL.L. 14/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1421</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE
+PROSTORA ZA REKONSTRUKCIJU OBJEKTA RO "NOVI
+DOM" NA UGLU UL. BEOGRADSKE I MAZURANICEVE
+U ZEMUNU, SL.L. 15/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1435</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE
+PROSTORA ZA DOGRADNJU I REKONSTRUKCIJU SARAN-
+SKOG RIBNJAKA "ZIVACA" U BOLJEVCIMA,SL.L.17/89,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1436</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU PRISTUPNOG PUTA ZA RB 59 DO RB
+62, SL.L. 17/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1437</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+KOLEKTORA OD UL. CETINJSKE DO KARADJORDJEVOG
+TRGA U ZEMUNU, SL.L. 17/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1453</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU PRILAZNOG PUTA ZA RENI BUNARE
+OD RB 35 DO RB 51,SL.L. 18/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1454</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU PRILAZNOG PUTA ZA RENI BUNARE
+OD RB 63 DO RB 66,SL.L. 18/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1455</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU POSLOVNOG PROSTORA - RADIONICE
+VIJACNE ROBE NA KAT. PARCELI BR. 3203/1 KO UGRI-
+NOVCI, SL.L. 18/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1456</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE
+PROSTORA ZA IZGRADNJU MINI FARME ZA GAJENJE
+KOKA NOSILJA I PECURKI NA KAT. PARCELI BR.
+4455 KO SURCIN, SL.L. 18/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1466</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A ZA IZGRADNJU GLAVNOG
+CEVOVODA I PRATECIH OBJEKATA SISTEMA ZA NAVODNJA-
+VANJE "ZEMUN" U ZEMUNU, SL.L. 21/89</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1467</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU OBJEKTA MALE PRIVREDE-KLANICE
+SA PRATECIM OBJEKTIMA NA KAT. PARCELI 1785/1 KO
+BECMEN, SL.L. 21/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1468</id>
+    <naziv>ZAKLJUCAK O IZMENI ZAKLJUCKA O PRIPREMANJU USLOVA
+ZA UREDJENJE PROSTORA ZA IZGRADNJU KAPELE-MRTVAC-
+NICE NA BEZANIJSKOJ KOSI,UL. MARIJE BURSAC U ZEMU
+NU, SL.L. 21/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1469</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENIH
+OBJEKATA MALE PRIVREDE U NASELJU BATAJNICA,
+SL.L. 21/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1470</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENIH
+OBJEKATA MALE PRIVREDE NA PAZOVACKOM PUTU U
+ZEMUNU, SL.L. 21/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1471</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENIH
+OBJEKATA MALE PRIVREDE NA UGLU ULICA PRVOMAJ-
+SKE I BANIJSKE U ZEMUNU, SL.L. 21/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1472</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU PRIKLJUCNOG 10 KV KABLA OD POS-
+TOJECE TS U KRUGU KBC "ZEMUN" - "BEZANIJSKA KOSA"
+DO KAPELE U UL. MARIJE BURSAC I ZA IZGRADNJU
+PRIKLJUCNOG TT KABLA OD OKNA 112 NA STAROM PUTU
+BEOGRAD-ZAGREB DO KAPELE U UL. MARIJE BURSAC U
+ZEMUNU, SL.L. 21/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1480</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU I DOGRADNJU
+PRIVREMENIH OBJEKATA U ZONI A1 I A4 AERODROMA
+"BEOGRAD", SL.L. 22/89</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1549</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU SKLADISNO-DISTRIBUTIVNOG
+CENTRA U RADNOJ ZONI DOBANOVCI-SURCIN U ZEMUNU,
+SL.L. 2/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1605</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BR:"1"-SPEDICIJA,ADMINISTRACIJA U
+PRVOMAJSKOJ ULICI U ZEMUNU,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1606</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVRREMENOG
+OBJEKTA BROJ "2" APOTEKA U PRVOMAJSKOJ ULICI
+U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1607</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BROJ "3" - BUTIK PLETENJE U PRVOMAJ-
+SKOJ ULIKCI U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1608</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BR."4"-KRZNAR U PRVOMAJSKOJ ULICI U
+ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1609</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BR."5"-SERVIS BELE TEHNIKE U PRVOMAJ-
+SKOJ ULICI U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1610</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BR."6" - KNJIZARA U PRVOMAJSKOJ ULICI
+U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1611</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORAZA IZGRADNJU PRIVREMENOG
+OBJEKTA BROJ "7" - PRANJE I PEGLANJE U PRVO-
+MAJSKOJ ULICI U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1612</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BR."8"- FOTOGRAF U PRVOMAJSKOJ ULICI
+U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1613</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BROJ "9" - PROIZVODNJA UCILA U PRVO-
+MAJSKOJ ULICI U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1614</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BROJ"10"-PROIZVODNJA OBUCE U PRVO-
+MAJSKOJ ULICI U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1615</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BROJ "11" - RESTORAN U PRVOMAJSKOJ    
+ULICI U ZEMUNU,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1616</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA
+ZA UREDJENJE PROSTORA ZA IZGRADNJU PRIVREME- 
+NOG OBJEKTA BROJ"12"-PEKARA-PROIZVODNJA U
+PRVOMAJSKOJ ULICI U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1617</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BROJ "13"-STAMPA I UMNOZAVANJE U PRVO-
+MAJSKOJ ULICI U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1618</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BROJ "14"-METALOSTRUGARSKA RADIONICA
+U PRVOMAJSKOJ ULICI U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1619</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA  BROJ "15"-STOLARSKA RADIONICA U 
+PRVOMAJSKOJ ULICI U ZEMUNU,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1620</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BROJ"16"-AUTOMEHANICARSKA RADNJA U
+PRVOMAJSKOJ ULICI U ZEMUNU,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1621</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA BROJ"17"-AUTOMEHANICARSKE RADIONICE
+U PRVOMAJSKOJ ULICI U ZEMUNU,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1622</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA - AUTOLIMARSKE RADIONICE,PAZOVACKI
+PUT,OBJEKAT "A" U ZEMUNU,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1623</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA - TRGOVINA, PAZOVACKI PUT OBJEKAT"B"
+U ZEMUNU, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1624</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA -TRGOVINA MESOVITOM ROBOM U ULICI
+DUNAVSKOJ 9 U BATAJNICI,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1625</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA "A" SERVIS ZA PODMAZIVANJE I ZASTITU
+VOZILA U ULICI PODUNAVSKOG ODREDA U BATAJNICI,
+SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1626</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA "B" TRGOVINA U ULICI PODUNAVSKOG ODRE-
+DA U BATAJNICI, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1627</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA 33 "TRGOVINA SPORTSKIM REKVIZITIMA"-
+STEVANA DUBAJICA U BATAJNICI,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1628</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA 
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA "33-A" TRGOVINE KUCNE RADINOSTI -
+STEVANA DUBAJICA U BATAJNICI,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1629</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA "A"-TRGOVINE TEKSTILOM - DUNAVSKA U
+BATAJNICI, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1630</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA "B" - POLJOPRIVREDNE APOTEKE -DUNAVSKA
+U BATAJNICI, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1631</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA "C"- TRGOVINE - DUNAVSKA U BATAJNICI,
+SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1632</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIKVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA "234" -PROIZVODNJA,TRGOVINA TEHNICKE
+ROVE U ULICI J.B.TITA U BATAJNICI,SL.L.10/90,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1633</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA 
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA "234-A" - MINIMARKET U ULICI J.B.TITA
+U BATAJNICI, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1634</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+OBJEKTA "234-B"-TRGOVINA SPORTSKIM REKVIZITIMA
+U ULICI J.B.TITA U BATAJNICI, SL.L. 10/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1649</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENE
+TRGOVINSKE RADNJE U UL. MAJKE JJUGOVICA U BATAJ-
+NICI NA KAT. PARCELAMA BR. 3529/9 I 3530/3 KO
+BATAJNICA, SL.L. 11/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1664</id>
+    <naziv>ODLUKA O PRIPAJANJU ZAJEDNICKIH PROSTORIJA I
+TAVANA UZ POSTOJECE STANOVE U STAMBENIM ZGRA-
+DAMA NA TERITORIJI OPSTINE ZEMUN ZA 1990.GODINU,
+SL.L. 12/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1680</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG
+POTISNOG CEVOVODA OD OBJEKTA "RETENZIJE" U
+BLOKU 9B DO DUNAVA NA TERITORIJI OPSTINE ZEMUN,
+SL.L. 14/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1697</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKTA
+ZA GAJENJE SAMPINJONA NA DELU PARCELE BR. 1654/2
+KO JAKOVO, SL.L. 15/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1700</id>
+    <naziv>IZMENE I DOPUNE DUP-A UREDJENJA OBALE DUNAVA
+U ZEMUNU, SL.L. 16/90</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1703</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROS-
+TORA ZA IZGRADNJU DELA CENTRA MZ "SURCIN" U
+SURCINU, SL.L. 16/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1704</id>
+    <naziv>DETALJNI URBANISTICKI PLAN ZA UREDJENJE KOMPLEKSA
+BANKE BILJNIH GENA JUGOSLAVIJE U "GORNJEM ZEMUNU"
+- ZEMUN, SL.L. 16/90</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  589</kart>
+    <IzDop>
+      <id>1704</id>
+      <opis>DOPUNJEN DUP-OM ZA IZGRADNJU GLAVNOG CEVOVODA SA
+PRATECIM OBJEKTIMA SISTEMA ZA NAVODNJAVANJE "ZE-
+MUN" U ZEMUNU, SL.L. 17/94</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>1710</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU MINI
+FARME ZA GAJENJE KOKA NOSILJA NA KATASTARSKOJ
+PARCELI BR. 4934/9 KO SURCIN, SL.L. 16/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1721</id>
+    <naziv>IZMENE I DOPUNE DUP-A IZMEDJU ULICA MARSALA TITA,
+DUBROVACKE, SVETOSAVSKE I STROSMAJEROVE U ZEMUNU,
+SL.L. 17/90</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1740</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENE
+TRGOVINSKE RADNJE U UL. DALMATINSKE ZAGORE U
+BATAJNICI, NA DELU KAT. PARCELE BR. 3103/1 KO
+BATAJNICA, SL.L. 19/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1804</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA URE-
+DJENJE PROSTORA ZA IZGRADNJU I DOGRADNJU PRIVREME-
+NIH OBJEKATA U ZONI A-1 I A-4 AERODROMA "BEOGRAD"-
+PRIVREMENA DOGRADNJA OBJEKTA U ZONI A-4 AERODROMA
+"BEOGRAD" ZA POTREBE OOUR-A "SAOBRACAJ", SL.L.
+24/9</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1805</id>
+    <naziv>RESENJE O UTVRDJIVANJU PRIVREMENIH USLOVA ZA URE-
+DJENJE PROSTORA ZA IZGRADNJU I DOGRADNJU PRIVREME- 
+NIH OBJEKATA U ZONI A-1 I A-4 AERODROMA "BEOGRAD"-
+PRIVREMENA DOGRADNJA MONTAZNOG OBJEKTA U ZONI A-1 
+AERODROMA "BEOGRAD"ZA POTREBE SLUZBE SEKTORA ZA
+PLANIRANJE I RAZVOJ, SL.L. 24/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1830</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU MINI
+FARME ZA GAJENJE KOKA NOSILJA I PECURKI NA KAT.
+PARC. BR. 4455, KO SURCIN, SL.L. 26/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1831</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROST0-
+RA ZA IZGRADNJU PORODICNE STAMBENE ZGRADE NA
+KAT.PARC. 706 KO ZEMUN U ULICI CUKOVICKA RUB 4 
+U ZEMUNU,SL.L. 26/90</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1889</id>
+    <naziv>ODLUKA O IZMENAMA I DOPUNAMA ODLIKE O GRADSKOM
+GRADJEVINSKOM ZEMLJISTU, SL.L. 30/II</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1901</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU STANICE
+ZA DOHLORISAVANJE PIJACE VODE U DISTRIBUTIVNOM
+SISTEMU BEOGRADA - NOVA GALENIKA, SL.L. 30/II</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1937</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA DOGRADNJU PORODICNE STAMBENE ZGRADE NA KAT.
+PARCELI 723/2 KO ZEMUN, U UL. CUKOVACKI KUT BR. 6
+U ZEMUNU, SL.L. 3/91,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1952</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU PRIVREMENE
+MBTS 10/04 KV NA LOKACIJI ZEMUN "ZMAJ JOVINA-
+-GAJEVA" U DVORISTU NARODNOG POZORISTA - SCENA
+ZEMUN NA KAT. PARCELI BR. 2582, KO ZEMUN, SL.L.
+4/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1972</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU KISNOG KOLEKTORA "ZEMUN POLJE - DU- 
+NAV" U ZEMUNU, SL.L. 5/91,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1973</id>
+    <naziv>IZMENA USLOVA ZA UREDJENJE PROSTORA ZA PRETVARANJE
+ZAJEDNICKIH PROSTORIJA - TAVANA U DVA STANA U UL.
+JOVANA SUBOTICA BR. 10 U ZEMUNU, SL.L. 5/91,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1993</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU MBTS 10/04 KV "ZEMUNSKA-PARTIZANSKA"
+U DOBANOVCIMA, SL.L. 6/91,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>1994</id>
+    <naziv>ZAKLJUCAK O PRODUZENJU ROKA ZA IZRADU USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU DELA CENTRA MZ
+"SURCIN" U SURCINU, SL.L. 6/91,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2027</id>
+    <naziv>ODLUKA O PRIPAJANJU ZAJEDNICKIH PROSTORIJA UZ
+POSTOJECE STANOVE I PRETVARANJE ZAJEDNICKIH
+PROSTORIJA U POSLOVNI PROSTOR U STAMBENIM ZGRA-
+DAMA NA TERITORIJI OPSTINE ZEMUN ZA 1991. GODI-
+NU, SL.L. 8/91,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2028</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA DOGRADNJU I NADZIDJIVANJE STAMBENE ZGRADE NA
+KAT. PARCELI BR. 717/3 KO ZEMUN U UL. CUKOVACKI 
+KUT BR. 1 U ZEMUNU, SL.L. 8/91,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2029</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU MINI-FARME ZA GAJENJE PCELA I PROIZ-
+VODNJU MEDA NA KAT. PARCELAMA 4283/1 I 4283/2 KO
+SURCIN, SL.L. 8/91,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2109</id>
+    <naziv>ODLUKA O UTVRDJIVANJU USLOVA ZA PRETVARANJE 
+ZAJEDNICKIH PROSTORIJA U STANOVE U STAMBENIM
+ZGRADAMA NA TERITORIJI OPSTINE ZEMUN ZA 1991.
+GODINU, SL.L. 14/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2110</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU CENTRA
+MESNE ZAJEDNICE JAKOVO SA IZGRADNJOM SAOBRACAJNI-
+CA, TEHNICKE INFRASTRUKTURE I UREDJENJA ZELENIH
+POVRSINA ZA KOMPLEKS "SAVA I" U JAKOVU, SL.L.
+14/9</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2111</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU SAOBRA-
+CAJNICA, TEHNICKE INFRASTRUKTURE, ZELENIH I SLO-
+BODNIH POVRSINA ZA KOMPLEKS "BASTINE" U UGRINOV-
+CIMA, SL.L. 14/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2112</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA POLAGANJE I MONTAZU OPTICKOG KABLA NA RELACIJI
+BEOGRAD-SREMSKA MITROVICA-RUMA-NOVI SAD - DEONICA
+NA TERITORIJI OPSTINE ZEMUN, SL.L. 14/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2113</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA
+UREDJENJE PROSTORA ZA IZGRADNJU OBJEKTA MALE
+PRIVREDE - POLJOPRIVREDNA APOTEKA NA KAT. PAR-
+CELI BR. 1838, K.O. BATAJNICA, SL.L. 14/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2114</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA DOGRADNJU I NADZIDJIVANJE STAMBENE ZGRADE NA
+KAT. PARCELI BR. 16152/7, K.O. ZEMUN, U UL. KUMA-
+NOVSKOJ BR.12 U ZEMUNU, SL.L. 14/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2148</id>
+    <naziv>DETALJNI URBANISTICKI PLAN UREDJENJA PRIOBALNOG
+POJASA I IZGRADNJE OBALOUTVRDE DUZ DESNE OBALE
+DUNAVA U ZEMUNU OD RESTORANA "SARAN" DO IZLETIS-
+TA U GORNJEM ZEMUNU, SL.L. 16/91</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  556</kart>
+  </Predmet>
+  <Predmet>
+    <id>2149</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU TT VODA ATC "SURCIN" DO GRANICE DUP-A
+RADNE ZONE SURCIN-DOBANOVCI, SL.L. 16/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2150</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA DOGRADNJU TS 35/10 KV "DOBANOVCI" U DOBANOVCI-
+MA, SL.L. 16/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2183</id>
+    <naziv>ODLUKA O GRANICAMA GRADJEVINSKOG PODRUCJA I USLO-
+VIMA IZGRADNJE STAMBENIH I DRUGIH OBJEKATA U PRI-
+GRADSKIM NASELJIMA NA PODRUCJU OPSTINE ZEMUN, SL.
+L. 18/91, REG.BR. 2183
+(NAPOM)
+
+
+
+</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+    <IzDop>
+      <id>2183</id>
+      <opis>IZMENA, SL.L. 7/95,</opis>
+    </IzDop>
+    <IzDop>
+      <id>2183</id>
+      <opis>ISPRAVKA, SL.L. 15/95</opis>
+    </IzDop>
+    <IzDop>
+      <id>2183</id>
+      <opis>DOPUNA, SL.L. 11/97</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>2184</id>
+    <naziv>ODLUKA O ODREDJIVANJU GRANICA GRADJEVINSKOG
+PODRUCJA I USLOVIMA IZGRADNJE STAMBENIH I
+DRUGIH OBJEKATA U NASELJU DOBANOVCI, SL.L.
+18/9</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+    <IzDop>
+      <id>2184</id>
+      <opis>DOPUNE, SL.L. 20/92</opis>
+    </IzDop>
+    <IzDop>
+      <id>2184</id>
+      <opis>DOPUNA, SL.L. 11/97</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>2185</id>
+    <naziv>ODLUKA O UTVRDJIVANJU USLOVA ZA PRETVARANJE ZAJED-
+NICKIH PROSTORIJA U STANOVE I POSLOVNI PROSTOR I
+PRIPAJANJE ZAJEDNICKIH PROSTORIJA UZ POSTOJECE
+STANOVE, SL.L. 18/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2186</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A DELA CEVOVODA ZA
+PODRUCJE OD CS "BEZANIJA B" DO GRANICE DUP-A
+RADNE ZONE "SURCIN-DOBANOVCI", SL.L. 18/91</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2187</id>
+    <naziv>ODLUKA O PRIPREMANJU IZRADE DUP-A FEKALNOG KOLEK-
+TORA PODRUCJA OD KCS "SURCIN" DO KC "BATAJNICA",
+SA SAOBRACAJNICOM NA TOM PROSTORU, SL.L. 18/91</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2188</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRRADNJU GARAZE ZA JEDNO PUTNICKO VOZILO NA
+KAT. PARCELI 16139/1 K.O. ZEMUN U UL. TIMOCKA BR.
+7 U ZEMUNU, SL.L. 18/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2189</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJE-
+KATA ZA GAJENJE PECURKI NA KAT. PARCELI 4835/1
+K.O. SURCIN, SL.L. 18/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2215</id>
+    <naziv>ODLUKA O ODREDJIVANJU ZEMLJISTA KOJE PRESTAJE DA
+BUDE GRADSKO GRADJEVINSKO ZEMLJISTE I GRADJEVIN-
+SKO ZEMLJISTE U K.O. BATAJNICA, SL.L. 20/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2216</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU SISTEMA
+ZASTITE POLJOPRIVREDNIH POVRSINA SA CRPNOM STANI-
+COM NA SEKTORU BOLJEVCI-PROGAR, SL.L. 20/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2250</id>
+    <naziv>ODLUKA O UTVRDJIVANJU USLOVA ZA PRETVARANJE ZAJED-
+NICKIH PROSTORIJA U STANOVE I POSLOVNI PROSTOR I
+PRIPAJANJE ZAJEDNICKIH PROSTORIJA UZ POSTOJECE STA
+NOVE, SL.L. 23/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2251</id>
+    <naziv>DETALJNI URBANISTICKI PLAN NASELJA "KALVARIJA" U
+ZEMUNU, SL.L. 23/91</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  560</kart>
+    <IzDop>
+      <id>2251</id>
+      <opis>DELOM SPROVODIV PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>2252</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU PORODICNE STAMBENE ZGRADE NA KAT.
+PARCELI 510 K.O. ZEMUN U UL. NOVOGRADSKA BR. 15
+U ZEMUNU, SL.L. 23/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2253</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU OGRANKA DOMA ZDRAVLJA NA UGLU ULICA
+DUBROVACKE I VOJVODJANSKE U SURCINU, SL.L. 23/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2254</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKTA
+ZA GAJENJE PECURKI NA KAT. PARCELI 4526/4 K.O.
+SURCIN, SL.L. 23/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2255</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKTA
+ZA PROIZVODNJU PECURKI NA KAT. PARCELI 2486/3 K.O.
+BOLJEVCI, SL.L. 23/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2256</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKTA
+ZA GAJENJE PILICA NA KAT. PARCELI BR. 1709/1 K.O.
+JAKOVO, SL.L. 23/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2292</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU PORODICNE STAMBENE ZGRADE NA KATAST-
+ARSKIM PARCELAMA 508 I 509/1 K.O. ZEMUN, UL. NOVO
+GRADSKA BR. 13 U ZEMUNU, SL.L. 25/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2293</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU POTKROVLJA I DVE GARAZE NA KAT. PAR-
+CELI 13255/10 K.O. ZEMUN U UL. GAVRILA PRINCIPA 
+BR. 9 U ZEMUNU, SL.L. 25/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2294</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU MAGACINA
+ZA VOCE I SMESTAJ POLJOPRIVREDNIH ALATKI NA KAT.
+PARCELI 1719/7 K.O. JAKOVO, SL.L. 25/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2295</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKTA
+ZA GAJENJE PECURKI NA KAT. PARCELAMA 1705/5 I DE-
+LU 1707/4 K.O. JAKOVO, SL.L. 25/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2296</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKATA
+ZA GAJENJE PECURKI NA KAT. PARCELI 1707/2 KO JAKO-
+VO, SL.L. 25/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2297</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKTA
+ZA GAJENJE PECURKI NA KAT. PARCELI 1707/3 I DELU
+1707/4 K.O. JAKOVO, SL.L. 25/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2322</id>
+    <naziv>ODLUKA O PRIPREMANJU IZMENA I DOPUNA ODLUKE O
+DUP-U DEONICE AUTO-PUTA "BRATSTVO-JEDINSTVO"
+OD DOBANOVACA DO BUBANJ POTOKA, SL.L. 27/91</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2324</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU TS    
+10/0,4 KV "STEVANA JOVANOVICA-15. OKTOBRA" U
+DOBANOVCIMA, SL.L. 27/91</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2363</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZMENU I DOPUNU USLOVA ZA UREDJENJE PROSTORA
+ZA DOGRADNJU I ADAPTACIJU DOMA KULTURE " LAZAR
+MAMUZIC" U SURCINU, SL.L. 3/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2364</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU MAGISTRALNOG GASOVODA DUZ PUTA UGRI-
+NOVCI-KRNJESEVCI OD GMRS U UGRINOVCIMA DO GRANICE
+TERITORIJE OPSTINE ZEMUN I STARA PAZOVA I RAZVOD-
+NE MREZE PO NASELJU UGRINOVCI, SL.L. 3/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2365</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA DOGRADNJU I NADZIDJIVANJE STAMBENE ZGRADE NA
+KAT. PARCELI 715 K.O. ZEMUN U UL. CUKOVACKA BR.
+10 U ZEMUNU, SL.L. 3/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2372</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU VODOVODNE MREZE U UGRINOVCIMA, SL.L.
+4/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2373</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU DVOJNE GARAZE ZA DVA PUTNICKA VOZILA
+NA KATASTARSKOJ PARCELI 16155/5, K.O. ZEMUN, U UL.
+MACVANSKA BR. 3 U ZEMUNU, SL.L. 4/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2374</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU CEVOVODA 0 400 MM NA POTEZU DOBANOV-
+CI-UGRINOVCI-BATAJNICA NA TERITORIJI OPSTINE ZE-
+MUN, SL.L. 4/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2375</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA DOGRADNJU PORODICNE STAMBENE ZGRADE NA KATAS-
+TARSKOJ PARCELI BR. 725/1 K.O. ZEMUN U ZEMUNU, U
+UL. VLADE OBRADOVICA BR. 8, SL.L. 4/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2376</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROSTO-
+RA ZA IZGRADNJU PRIVREMENE VODOINSTALATERSKE RADI-
+ONICE U BATAJNICI UL. DUNAVSKA, KOD PIJACE, NA DE-
+LOVIMA KAT. PARCELA BR. 5533/2 I 3101, K.O. BATAJ-
+NICA, SL.L. 4/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2377</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKATA
+ZA GAJENJE PECURKI NA KAT. PARCELI 2635 K.O. BO-
+LJEVCI, SL.L. 4/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2378</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKTA
+ZA PRERADU VOCA I POVRCA NA KAT. PARCELAMA 3213 I
+3214 K.O. UGRINOVCI, SL.L. 4/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2379</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA URE-
+DJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG OBJEKTA
+ZA TRGOVINU, NA DELU KAT. PARCELE BR. 2156 KO ZE-
+MUM U UL. TOSIN BUNAR KOD BROJA 63, SL.L. 4/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2411</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A DELA CEVOVODA ZA PODRUC
+JE OD CS "BEZANIJA B" DO GRANICE DUP-A RADNE ZONE
+"SURCIN-DOBANOVCI", SL.L. 6/92,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2412</id>
+    <naziv>ODLUKA O PRIPREMANJU IZRADE DUP-A FEKALNOG KOLEK-
+TORA PODRUCJA OD KCS "SURCIN" DO KC "BATAJNICA"
+SA SAOBRACAJNICOM NA TOM PROSTORU, SL.L. 6/92,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2422</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU GARAZE ZA JEDNO PUTNICKO VOZILO NA
+KAT. PARCELI BR. 16119/5 K.O. ZEMUN U UL. TIMOCKA
+BR. 18 U ZEMUNU, SL.L. 7/92,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2427</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A DEONICE AUTO-PUTA
+BATAJNICA-DOBANOVCI, SL.L. 8/92,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2473</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O PRIPREMANJU USLOVA ZA
+IZGRADNJU SPORTSKO-REKREATIVNOG CENTRA "TELEOP-
+TIK" NA KAT. PARCELI 10774 I DELOVIMA 10775 I
+10773 KO ZEMUN U ZEMUNU, SL.L. 10/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2474</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA REKONSTRUKCIJU OBJEKTA "CARINARNICA" U ZEMUNU,
+UL. ZMAJ JOVINA BR. 26, SL.L. 10/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2475</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROSTO-
+RA ZA IZGRADNJU PRIVREMENE TRGOVINSKE RADNJE NA
+DELU KAT. PARCELE BR. 3103/1 KO BATAJNICA, SL.L.
+10/9</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2476</id>
+    <naziv>RESENJE O UTVRDJIVANJU USLOVA ZA UREDJENJE PROSTO-
+RA ZA IZGRADNJU PRIVREMENE TRGOVINSKE RADNJE U UL.
+MAJKE JUGOVICA U BATAJNICI NA DELOVIMA KAT. PARCE-
+LA BR. 3529/9 I 3530/3 KO BATAJNICA, SL.L. 10/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2517</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA NADZIDJIVANJE POTKROVLJA NA PORODICNOJ PRIZEM-
+NOJ STAMBENOJ ZGRADI NA KAT. PARCELI BR. 656 K.O.
+ZEMUN U ZEMUNU U UL. BREGOVITOJ BR.6, SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2518</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU GARAZE ZA JEDNO PUTNICKO VOZILO NA
+KAT. PARCELI BR. 13213/8, KO ZEMUN U UL. SLAVISE
+VAJNERA BR. 33 U ZEMUNU, SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2519</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA NADZIDJIVANJE STAMBENE ZGRADE NA KAT. PARCELI
+BR. 13216/10 K.O. ZEMUN U UL. FILIPA KLJAJICA BR.
+9 U ZEMUNU, SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2520</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA DOGRADNJU STAMBENE ZGRADE I IZGRADNJU JEDNE
+GARAZE NA KAT. PARCELI 16096/30 K.O. ZEMUN U UL.
+IV SREMSKOG BATALJONA BR. 5 U ZEMUNU, SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2521</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU DVOJNE
+GARAZE ZA DVA PUTNICKA VOZILA NA KAT. PARCELI BR.
+16155/5 K.O. ZEMUN U ZEMUNU U UL. MACVANSKOJ BR.3
+INVESTITORA STOJANA I DJURACA LOVRE, SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2522</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA REKONSTRUKCIJU
+PORODICNE STAMBENE ZGRADE NA KAT. PARCELI 706
+KO ZEMUN U UL. CUKOVACKI RUB BR. 4 U ZEMUNU -
+- INVESTITOR BERNER STEFAN, SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2523</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU GARAZE
+ZA JEDNO PUTNICKO VOZILO NA KAT. PARCELI 16119/5
+KO ZEMUN U UL. TIMOCKA BR. 18 U ZEMUNU, SL.L.
+12/9</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2524</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKATA
+ZA GAJENJE KOKA NOSILJA NA KAT. PARCELI 1715/2 
+K.O. JAKOVO, SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2525</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU OBJEKTA
+ZA GAJENJE ZIVINE NA KAT. PARCELI 2486/2 K.O. BO-
+LJEVCI, SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2526</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA URE-
+DJENJE PROSTORA ZA IZGRADNJU PRIVREMENOG OBJEKTA
+ZA PODMAZIVANJE I PRANJE VOZILA NA DELU KAT. PARC.
+BR. 3103/1 K.O. BATAJNICA , SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2527</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU PRIVREMENIH USLOVA ZA URE-
+DJENJE PROSTORA ZA IZGRADNJU PRIVREMENE UPRAVNE
+ZGRADE SA RESTORANOM DRUSTVENE ISHRANE ZA POTREBE
+DD "MILOS MAMIC" U ZEMUNU, SL.L. 12/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2548</id>
+    <naziv>ZAKLJUCAK ( POZITIVNO MISLJENJE NA NACRT DETALJNOG
+PROSTORNOG PLANA MODERNIZACIJE I IZGRADNJE ZELEZNI
+CKE PRUGE ZA VOZOVE VELIKIH BRZINA SUBOTICA - BEO-
+GRAD - NIS DIMITROVGRAD, DEONICA BATAJNICA - INDJI
+JA ), SL.L. 14/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2582</id>
+    <naziv>ODLUKA O UTVRDJIVANJU USLOVA ZA PRETVARANJE ZAJED-
+NICKIH PROSTORIJA U STANOVE I POSLOVNI PROSTOR I
+PRIPAJANJE ZAJEDNICKIH PROSTORIJA UZ POSTOJECE STA
+NOVE, SL.L. 20/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2583</id>
+    <naziv>ODLUKA O DOPUNAMA ODLUKE O ODREDJIVANJU GRANICA
+GRADJEVINSKIH PODRUCJA I USLOVIMA IZGRADNJE STAM-
+BENIH I DRUGIH OBJEKATA U NASELJU DOBANOVCI, SL.L.
+20/9</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2614</id>
+    <naziv>ODLUKA O DOPUNI ODLUKE O UTVRDJIVANJU USLOVA ZA
+PRETVARANJE ZAJEDNICKIH PROSTORIJA U STANOVE I
+POSLOVNI PROSTOR I PRIPAJANJE ZAJEDNICKIH PROS-
+TORIJA UZ POSTOJECE STANOVE, SL.L. 24/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2615</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA NADZIDJIVANJE POTKROVLJA I IZGRADNJU GARAZE ZA
+JEDNO PUTNICKO VOZILO NA KAT. PARCELI 723/1, KO ZE
+MUN U ZEMUNU U UL. CUKOVACKI KUT BR. 4, SL.L.24/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2616</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU OBJEKATA ZA PRERADU VOCA I POVRCA NA
+KAT. PARCELI BR. 4601/3 KO SURCIN, SL.L. 24/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2617</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU BENZINSKE PUMPE NA KAT.PARCELI 1853/1
+KO JAKOVO U JAKOVU, SL.L. 24/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2618</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU TRGOVACKO-POSLOVNOG CENTRA NA LOKACI
+JI UGAO KEJ OSLOBODJENJA BR. 23 I MASARIKOV TRG 8
+U ZEMUNU, INVESTITORA "GALENIKA-HOLDING" DD "STAN"
+IZ ZEMUNA, SL.L. 24/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2619</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU MINI FAR
+ME ZA GAJENJE PCELA I PROIZVODNJU MEDA NA KAT. PAR
+CELI 4283/1 I 4283/2 KO SURCIN, SL.L. 24/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2620</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA NADZIDJIVANJE POT-
+KROVLJA PORODICNE STAMBENE ZGRADE NA KAT. PARCELI
+BR. 13216/10 KO ZEMUN U ZEMUNU, SL.L. 24/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2621</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU GARAZE 
+ZA JEDNO PUTNICKO VOZILO NA KAT. PARCELI BR.
+13213/8 KO ZEMUN U ZEMUNU, SL.L. 24/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2632</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU AUTO-PU
+NILISTA ZA TECNI NAFTNI GAS SA PRATECIM SADRZAJIMA
+UZ BENZINSKU STANICU "ZMAJ" U ZONI AUTO-PUTA BEO-
+GRAD-ZAGREB, SL.L. 25/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2633</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU STAMBENE ZGRADE P+1 I DVE GARAZE NA
+KAT. PARCELI 13194/1 KO ZEMUN U UL. GETEOVOJ BR. 
+14 U ZEMUNU, SL.L. 25/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2634</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU OBJEKATA ZA PROIZVODNJU I PRERADU VO
+CA I POVRCA NA DELU KAT. PARCELE 5388/1 KO BATAJ-
+NICA, SL.L. 25/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2635</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU OBJEKATA ZA PROIZVODNJU I PRERADU VO
+CA I POVRCA NA DELU KAT. PARCELE 5388/1 KO BATAJ-
+NICA U ZEMUNU, SL.L. 25/92</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2693</id>
+    <naziv>ODLUKA O UTVRDJIVANJU USLOVA ZA PRETVARANJE ZAJED-
+NICKIH PROSTORIJA U STANOVE I POSLOVNI PROSTOR I
+PRIPAJANJE ZAJEDNICKIH PROSTORIJA UZ POSTOJECE STA
+NOVE, SL.L. 10/93</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2702</id>
+    <naziv>ODLUKA O PRIPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU OBJEKTA "MEDJUNARODNI CENTAR ZA VRH-
+UNSKA ISTRAZIVANJA INSTITUTA ZA TEORIJSKU FIZIKU"
+U UL. MAKSIMA GORKOG U ZEMUNU, SL.L. 12/93</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2704</id>
+    <naziv>ODLUKA O PRIPREMANJU IZMENA I DOPUNA ODLUKE O 
+DUP-U SEDAM MESNIH ZAJEDNICA U ZEMUNU - PODRUCJE
+XIII,XIV I XV MZ, SL.L. 12/93</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2705</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A VANGRADSKOG TOPLOVODA 
+OD TE-TO "NIKOLA TESLA" DO TO "NOVI BEOGRAD",
+SL.L. 12/93</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2717</id>
+    <naziv>DETALJNI URBANISTICKI PLAN BLOKOVA 9A, 11B I 11C
+NA TERITORIJI OPSTINA NOVI BEOGRAD I ZEMUN, SL.L.
+13/9</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  578</kart>
+  </Predmet>
+  <Predmet>
+    <id>2718</id>
+    <naziv>ISPRAVKA ODLUKE O UTVRDJIVANJU USLOVA ZA PRETVARA
+NJE ZAJEDNICKIH PROSTORIJA U STANOVE I POSLOVNI
+PROSTOR I PRIPAJANJE ZAJEDNICKIH PROSTORIJA UZ
+POSTOJECE STANOVE, SL.L. 13/93</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2719</id>
+    <naziv>ISPRAVKA ODLUKE O UTVRDJIVANJU USLOVA ZA PRETVARA-
+NJE ZAJEDNICKIH PROSTORIJA U STANOVE I POSLOVNI
+PROSTOR I PRIPAJANJE ZAJEDNICKIH PROSTORIJA UZ POS
+TOJECE STANOVE, SL.L. 13/93</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2732</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU MB TS
+10/0,4 KV "ZEMUNSKA-PARTIZANSKA" U DOBANOVCIMA,
+SL.L. 15/93</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2733</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O UTVRDJIVANJU USLOVA ZA
+PRETVARANJE ZAJEDNICKIH PROSTORIJA U STANOVE I
+POSLOVNI PROSTOR I PRIPAJANJE ZAJEDNICKIH PROS-
+TORIJA UZ POSTOJECE STANOVE NA TERITORIJI OPSTI
+NE ZEMUN, SL.L. 15/93</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2756</id>
+    <naziv>RESENJE O UTVRDJIVANJU OPSTEG INTERESA ZA IZGRAD-
+NJU PORODICNIH STAMBENIH ZGRADA U BECMENU NA PAR-
+CELI 332 KO BECMEN, SL.L. 18/93</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2764</id>
+    <naziv>ISPRAVKA DUP-A VANGRADSKOG TOPLOVODA OD TE-TO 
+"NIKOLA TESLA" U OBRENOVCU DO TO "NOVI BEOGRAD",
+SL.L. 20/93</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2859</id>
+    <naziv>USLOVI ZA UREDJENJE PROSTORA ZA IZGRADNJU CEVOVODA
+0400 mm NA POTEZU DOBANOVCI - UGRINOVCI - BATAJNI-
+CA, SL.L. 5/94,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2896</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A TS 35/6 KV "OSTRUZNICA"
+SA DVOSTRUKIM VODOM 35 KV DO TS 110/35 KV "TOPLANA
+NOVI BEOGRAD", SL.L. 7/94,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>2935</id>
+    <naziv>ODLUKA O UTVRDJIVANJU USLOVA ZA PRETVARANJE ZAJED-
+NICKIH PROSTORIJA U STANOVE I POSLOVNI PROSTOR I
+PRIPAJANJE ZAJEDNICKIH PROSTORIJA UZ POSTOJECE STA
+NOVE, SL.L. 9/94,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3003</id>
+    <naziv>ODLUKA O PRIPREMANJU IZMENA I DOPUNA ODLUKE O 
+DUP-U STAMBENOG KOMPLEKSA "KAMENDIN" U ZEMUNU,
+SL.L. 12/94</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3061</id>
+    <naziv>ODLUKA O PROPREMANJU USLOVA ZA UREDJENJE PROSTORA
+ZA IZGRADNJU OBJEKTA U KOMPLEKSU FUDBALSKOG KLUBA
+"ZEMUN" U ZEMUNU, SL.L. 16/94</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3085</id>
+    <naziv>DETALJNI URBANISTICKI PLAN ZA IZGRADNJU GLAVNOG
+CEVOVODA SA PRATECIM OBJEKTIMA SISTEMA ZA NAVOD
+NJAVANJE "ZEMUN" U ZEMUNU, SL.L. 17/94</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  590</kart>
+  </Predmet>
+  <Predmet>
+    <id>3111</id>
+    <naziv>ODLUKA O PRIPREMANJU IZMENA I DOPUNA ODLUKE O 
+GUP-U BEOGRADA, SL.L. 21/94</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3124</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A PRIKLJUCNOG VODOVODA
+OD KOMPLEKSA POSEBNE NAMENE U SURCINU DO PUTA
+SURCIN-DOBANOVCI, SL.L. 2/95,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3128</id>
+    <naziv>RESENJE O PRIPREMANJU IZMENE I DOPUNE DUP-A DELA
+STAMBENE ZONE U GORNJEM ZEMUNU IZMEDJU SAOBRACAJ-
+NICA: BULEVAR LENJINA, T-6, JUZNOG BULEVARA I T-8
+- NASELJE "ALTINA", SL.L. 3/95,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3133</id>
+    <naziv>ODLUKA O PRIPREMANJU DUP-A IZMEDJU ULICA: DOBRO-
+VOLJACKE, UGRINOVACKE, STEVANA JOVANOVICA I DOBA-
+NOVACKE U ZEMUNU, SL.L. 4/95,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3183</id>
+    <naziv>RESENJE O DODELI SRPSKOJ PRAVOSLAVNOJ CRKVI GRA-
+DJEVINSKOG ZEMLJISTA RADI IZGRADNJE CRKVE I PRA-
+TECEG SADRZAJA U NASELJU BATAJNICA, SL.L. 7/95,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3188</id>
+    <naziv>PLAN POSTAVLJANJA PRIVREMENIH OBJEKATA NA JAVNIM
+POVRSINAMA TERITORIJE OPSTINE ZEMUN, SL.L. 7/95,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3193</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O GRANICAMA GRADJEVINSKOG
+PODRUCJA I USLOVIMA IZGRADNJE STAMBENIH I DRUGIH
+OBJEKATA U PRIGRADSKIM NASELJIMA NA PODRUCJU
+OPSTINE ZEMUN, SL.L. 7/95,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3219</id>
+    <naziv>PLAN POSTAVLJANJA PRIVREMENIH OBJEKATA NA JAVNIM
+POVRSINAMA NA PODRUCJU GRADSKE OPSTINE ZEMUN -
+- DRUGI DEO, SL.L. 13/95</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3223</id>
+    <naziv>DETALJNI URBANISTICKI PLAN SPORTSKO-REKREATIVNOG
+CENTRA "TELEOPTIK" U ZEMUNU, SL.L. 14/95</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  585</kart>
+    <IzDop>
+      <id>3223</id>
+      <opis>ISPRAVKA, SL.L. 20/95</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>3231</id>
+    <naziv>ISPRAVKA ODLUKE O GRANICAMA GRADJEVINSKOG PODRUC-
+JA I USLOVIMA IZGRADNJE STAMBENIH I DRUGIH OBJE-
+KATA U PRIGRADSKIM NASELJIMA NA PODRUCJU OPSTINE
+ZEMUN, SL.L. 15/95</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3238</id>
+    <naziv>PLAN POSTAVLJANJA PRIVREMENIH OBJEKATA NA JAVNIM
+POVRSINAMA TERITORIJE OPSTINE ZEMUN - III DEO,
+SL.L. 16/95</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3266</id>
+    <naziv>RESENJE O ODUZIMANJU GRADSKOG GRADJEVINSKOG ZEM-
+LJISTA "KORNI INZENJERINGU", SL.L. 17/95</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3269</id>
+    <naziv>RESENJE O ODUZIMANJU GRADSKOG GRADJEVINSKOG ZEM-
+LJISTA GP "RAD", SL.L. 17/95</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3287</id>
+    <naziv>ISPRAVKA PLANA POSTAVLJANJA PRIVREMENIH OBJEKATA
+NA JAVNIM POVRSINAMA NA PODRUCJU GRADSKE OPSTINE
+ZEMUN - DRUGI DEO, SL.L. 17/95</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3327</id>
+    <naziv>ISPRAVKA DUP-A SPORTSKO-REKREATIVNOG CENTRA "TELE
+OPTIK" U ZEMUNU, SL.L. 20/95</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3346</id>
+    <naziv>RESENJE O DODELI GRADSKOG GRADJEVINSKOG ZEMLJISTA
+KLINICKO-BOLNICKOM CENTRU "BEZANIJSKA KOSA", ZA
+IZGRADNJU OBJEKATA U KOMPLEKSU KBC "BEZANIJSKA KO
+SA", SL.L. 1/96,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3348</id>
+    <naziv>RESENJE O DOPUNI RESENJA SO ZEMUN br. 06-274/91-1
+od 29.10.1991. god. O DAVANJU NA KORISCENJE GRAD-
+SKOG GRADJEVINSKOG ZEMLJISTA PREDUZECU "JINPROS",
+NA LOKACIJI BLOK 9B "RETENZIJA" U ZEMUNU, SL.L.
+1/96</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3349</id>
+    <naziv>RESENJE O DOPUNI RESENJA SO ZEMUN br. 06-613/87-1
+od 2.9.1987. god. O DAVANJU NA KORISCENJE GRADSKOG
+GRADJEVINSKOG ZEMLJISTA POSLOVNOJ ZAJEDNICI "JIN-
+PROS", NA LOKACIJI BLOK 9B "RETENZIJA" U ZEMUNU,
+SL.L. 1/96,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3353</id>
+    <naziv>ODLUKA O PRIPREMANJU UP-A ZA IZGRADNJU OBJEKTA
+"MEDJUNARODNI CENTAR ZA VRHUNSKA ISTRAZIVANJA
+INSTITUTA ZA TEORIJSKU FIZIKU", U UL. MAKSIMA
+GORKOG U ZEMUNU, SL.L. 2/96,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3355</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA ZA IZGRAD
+NJU PRIMARNOG CEVEOVODA OD CS "BEZANIJA B" U NO-
+VOM BEOGRADU DO KONZUMA U UGRINOVACKOJ ULICI U
+ZEMUNU, SL.L. 2/96,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3387</id>
+    <naziv>ISPRAVKA REGULACIONOG PLANA ZA PRIKLJUCNI VODOVOD
+OD KOMPLEKSA POSEBNE NAMENE U SURCINU DO PUTA
+SURCIN-DOBANOVCI, SL.L. 9/96,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3396</id>
+    <naziv>ODLUKA O PRIPREMANJU GUP-A ZA CEVASTE BUNARE NA
+PODRUCJU JAKOVA I BOLJEVACA, SL.L. 11/96</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3441</id>
+    <naziv>IZMENA I DOPUNA PLANA POSTAVLJANJA PRIVREMENIH
+OBJEKATA NA JAVNIM POVRSINAMA TERITORIJE OPSTINE
+ZEMUN-II DEO, KOJI JE OBJAVLJEN U "SLUZBENOM LIS
+TU GRADA BEOGRADA",BROJ 13/95 OD 14.7.1995. GOD.,
+SL.L. 14/96</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3460</id>
+    <naziv>ODLUKA O GRADJEVINSKOM ZEMLJISTU, SL.L. 16/96</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3465</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA STAROG
+JEZGRA ZEMUNA, SL.L. 16/96</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  706</kart>
+  </Predmet>
+  <Predmet>
+    <id>3471</id>
+    <naziv>RESENJE O ODUZIMANJU GRADSKOG GRADJEVINSKOG ZEM-
+LJISTA "SRBIJAPROJEKT" DD, BEOGRAD, SL.L. 16/96</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3473</id>
+    <naziv>RESENJE O ODUZIMANJU GRADSKOG GRADJEVINSKOG ZEM-
+LJISTA KOMPANIJI "OSIGURANJE DUNAV" D.D., SL.L.
+16/9</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3503</id>
+    <naziv>ODLUKA O USLOVIMA I NACINU POSTAVLJANJA PRIVRE-
+MENIH OBJEKATA NA JAVNIM POVRSINAMA U GRADSKOJ
+OPSTINI ZEMUN, SL.L. 3/97,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3504</id>
+    <naziv>PRAVILNIK O TIPU, VELICINI, IZGLEDU I DRUGIMUSLO-
+VIMA ZA POSTAVLJANJE PRIVREMENIH OBJEKATA NA JAV-
+NIM POVRSINAMA NA TERITORIJI GRADSKE OPSTINE ZEMUN
+SL.L. 4/97,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3518</id>
+    <naziv>ODLUKA O DOPUNI ODLUKE O GRANICAMA GRADJEVINSKOG
+PODRUCJA I USLOVIMA IZGRADNJE STAMBENIH I DRUGIH
+OBJEKATA U PRIGRADSKIM NASELJIMA NA PODRUCJU 
+OPSTINE ZEMUN, SL.L. 11/97</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3519</id>
+    <naziv>ODLUKA O DOPUNI ODLUKE O ODREDJIVANJU GRANICA
+GRADJEVINSKOG PODRUCJA I USLOVIMA IZGRADNJE
+STAMBENIH I DRUGIH OBJEKATA U NASELJU DOBANOVCI
+SL.L. 11/97</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3526</id>
+    <naziv>RESENJE O PRETHODNOJ ZASTITI PRIRODNOG DOBRA
+"VELIKO RATNO OSTRVO", SL.GL.RS 14/97, REG.BR.
+3526
+(NAPOM)
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3527</id>
+    <naziv>IZMENE I DOPUNE GUP-A BEOGRADA, SL.L. 14/97</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3585</id>
+    <naziv>ODLUKA USTAVNOG SUDA kojom se utvrdjuje da Odluka
+o dopuni Odluke o granicama gradjevinskog podrucja
+i uslovima izgradnje stambenih i drugih objekata u
+prigradskim naseljima na podrucju opstine Zemun i
+Odluka o dopuni Odluke o odredjivanju granica gra-
+djevinskih podrucja i uslovima izgradnje stambenih
+i drugih objekata u naselju Dobanovci, koje je do-
+nela SO Zemun 9.juna 1997. godine ("Sluzbeni list
+grada Beograda", broj 11/97), nisu u saglasnosi sa
+ustavom i zakonom, SL.GL.RS 3/98, REG.BR. 3585
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3586</id>
+    <naziv>ODLUKA USTAVNOG SUDA kojom se utvrdjuje da Odluka
+o uslovima i nacinu postavljanja privremenih obje-
+kata na javnim povrsinama u gradskoj opstini Zemun
+("Sluzbeni list grada Beograda", broj 3/97) koju
+je donela SO Zemun 17.februara 1997. godine i Pra-
+vilnik o tipu, velicini, izgledu i drugim uslovima
+za postavljanje privremenih objekata na javnim
+povrsinama na teritoriji gradske opstine Zemun
+("Sluzbeni list grada Beograda", broj 4/97) koji
+je doneo IO SO Zemun 18.februara 1997. godine, ni-
+su u saglasnosti sa zakonom, SL.GL.RS 5/98,REG.BR.
+3586
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3591</id>
+    <naziv>ODLUKA O PRIPREMANJU GENERALNOG PLANA ZA IZGRADNJU
+TS 35/10 KV "UGRINOVCI", PROSIRENJE TS 35/10 KV
+"DOBANOVCI" I IZGRADNJU VODOVA 35 KV OD TS 110/35
+KV "BEOGRAD 9" DO TS 35/10 KV "UGRINOVCI" I TS
+35/10 KV "DOBANOVCI", SL.L. 8/98,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3592</id>
+    <naziv>ODLUKA O PRIPREMANJU GENERALNOG PLANA ZA IZGRADNJU
+OBJEKATA VODOVODA ZA SNABDEVANJE VODOM NASELJA
+JAKOVO, BOLJEVCI, PROGAR, BECMEN, PETROVCIC I DOBA
+NOVCI, SL.L. 8/98,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3593</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA ZA IZGRAD-
+NJU KISNOG KOLEKTORA "ZEMUN POLJE-DUNAV" U ZEMUNU,
+SL.L. 8/98,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3603</id>
+    <naziv>ISPRAVKA PRILOGA ODLUKE O ODREDJIVANJU ZEMLJISTA
+KOJE PRESTAJE DA BUDE GRADSKO GRADJEVINSKO ZEM-
+LJISTE I GRADJEVINSKO ZEMLJISTE U K.O. BATAJNICA-
+- OZNACENJE KATASTARSKIH PARCELA U K.O. BATAJNICA
+KOJE PRESTAJU DA BUDU GRADSKO GRADJEVINSKO ZEMLJIS
+TE I GRADJEVINSKO ZEMLJISTE, SL.L. 9/98,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3632</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA BLOKA 9B
+- "RETENZIJA" U ZEMUNU, SL.L. 20/98</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3636</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA ZA IZGRAD
+NJU MAGISTRALNIH TOPLOVODA ZA TERITORIJU GORNJI
+ZEMUN, SL.L. 21/98</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  712</kart>
+  </Predmet>
+  <Predmet>
+    <id>3637</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA GASIFIKA-
+CIJE NASELJA BATAJNICA, SL.L. 21/98</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3675</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA ZA IZGRAD-
+NJU LINIJE METROA M1 "MERKATOR-VUKOV SPOMENIK",
+SL.L. 12/99</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3720</id>
+    <naziv>ODLUKA O UTVRDJIVANJU CRKVE SVETE PARASKEVE U
+BOLJEVCIMA ZA SPOMENIK KULTURE, SL.GL.RS 5/00,
+REG.BR. 3720
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3721</id>
+    <naziv>ODLUKA O UTVRDJIVANJU CRKVE RODJENJA SVETOG JAVANA
+PRETECE U PETROVCICU ZA SPOMENIK KULTURE, SL.GL.RS.
+5/00, REG.BR. 3721
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3722</id>
+    <naziv>ODLUKA O UTVRDJIVANJU CRKVE SVETOG SAVE U BECMENU
+ZA SPOMENIK KULTURE, SL.GL.RS. 5/00, REG.BR.3722
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3767</id>
+    <naziv>ODLUKA O IZRADI PROSTORNOG PLANA PODRUCJA INFRA-
+STRUKTURNOG KORIDORA AUTOPUTA E-75, DEONICA BEO-
+GRAD-NIS, SL.GL.RS. 55/2000, REG.BR. 3767
+</naziv>
+    <grupa>I PLANSKA DOKUMENTA</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3787</id>
+    <naziv>ODLUKA O PRISTUPANJU IZRADI GENERALNOG PLANA BEO-
+GRADA, SL.L. 4/200</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3798</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA KOMPLEKSA
+IZMEDJU ULICA JAKOBA KUBUROVICA, NOVOGRADSKE,
+UGRINOVACKE I IVICEVE U ZEMUNU, SL.L. 4/200</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  719</kart>
+  </Predmet>
+  <Predmet>
+    <id>3799</id>
+    <naziv>REGULACIONI PLAN DELA PODRUCJA GORNJEG ZEMUNA ZA
+PROSTOR IZMEDJU ULICA PRVOMAJSKE, GETEOVE, TRASE
+ZELEZNICKE PRUGE, MARIJE BURSAC I SIME SOLAJE,
+SL.L. 4/200</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1038</kart>
+  </Predmet>
+  <Predmet>
+    <id>3800</id>
+    <naziv>REGULACIONI PLAN ZA IZGRADNJU KISNOG KOLEKTORA
+"ZEMUN POLJE - DUNAV" U ZEMUNU, SL.L. 4/200</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1037</kart>
+    <IzDop>
+      <id>3800</id>
+      <opis>PROMENJEN - FAKTICKI ALI NE I FORMALNO STAVLJEN 
+VAN SNAGE PLANOM DETALJNE REGULACIJE PRIVREDNE 
+ZONE GORNJI ZEMUN - ZONE 3 i 4, SL.L. 14/05</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>3816</id>
+    <naziv>REGULACIONI PLAN BLOKA 9B "RETENZIJA" U ZEMUNU,
+SL.L. 9/01,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1039</kart>
+  </Predmet>
+  <Predmet>
+    <id>3826</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA ZA CENT-
+RALNU ZONU I ZONE CENTARA GRADSKIH POTCELINA NA
+TERITORIJI GENERALNOG URBANISTICKOG PLANA BEOGRA
+DA, SL.L. 12/20</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3827</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA PRIVREDNE
+ZONE "GORNJI ZEMUN" U ZEMUNU, SL.L. 12/20</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  721</kart>
+  </Predmet>
+  <Predmet>
+    <id>3854</id>
+    <naziv>REGULACIONI PLAN ZA IZGRADNJU PRIMARNOG CEVOVODA
+OD CS "BEZANIJA B" U NOVOM BEOGRADU DO KONZUMA U
+UGRINOVACKOJ ULICI U ZEMUNU, SL.L. 15/01</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1044</kart>
+  </Predmet>
+  <Predmet>
+    <id>3855</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O ODREDJIVANJU ZEMLJISTA
+KOJE PRESTAJE DA BUDE GRADSKO GRADJEVINSKO ZEM
+LJISTE I GRADJEVINSKO ZEMLJISTE U K.O. BATAJNICA,
+SL.L. 15/01</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3868</id>
+    <naziv>GENERALNI PLAN SA ELEMENTIMA REGULACIONOG PLANA
+ZA IZGRADNJU MREZE ELEKTRODISTRIBUTIVNIH POSTRO-
+JENJA TS 35/10 kV "UGRINOVCI",PROSIRENJE TS 35/10
+kV "DOBANOVCI" I IZGRADNJU VODOVA 35 kV OD TS
+110/35 kV "BEOGRAD 9" DO TS 35/10 kV "UGRINOVCI"
+I TS 35/10 kV "DOBANOVCI", SL.L. 19/01</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1092</kart>
+    <IzDop>
+      <id>3868</id>
+      <opis>STAVLJEN VAN SNAGE PO ODLUCI SL.L. 30/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>3868</id>
+      <opis>STUPA NA SNAGU PO ODLUCI O IZMENI I DOPUNI ODLUKE
+SL.L. 23/04</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>3902</id>
+    <naziv>ODLUKA O IZRADI PROSTORNOG PLAMA PODRUCJA INFRA-
+STRUKTURNOG KORIDORA AUTOPUTA E-75 SUBOTICA-BEO-
+GRAD (BATAJNICA), SL.GL.RS 64/01, REG.BR. 3902
+</naziv>
+    <grupa>I PLANSKA DOKUMENTA</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3903</id>
+    <naziv>ODLUKA O IZRADI PROSTORNOG PLANA PODRUCJA INFRA-
+STRUKTURNOG KORIDORA GRANICA HRVATSKE-BEOGRAD
+(DOBANOVCI), SL.GL.RS 64/01, REG.BR. 3903
+</naziv>
+    <grupa>I PLANSKA DOKUMENTA</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3908</id>
+    <naziv>ODLUKA O IZMENAMA I DOPUNAMA ODLUKE O GRADJEVIN-
+SKOM ZEMLJISTU, SL.L. 26/01</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3929</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA MREZE
+BENZINSKIH STANICA NA TERITORIJI GENERALNOG 
+URBANISTICKOG PLANA BEOGRADA, SL.L. 3/02,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3972</id>
+    <naziv>ODLUKA O PRIPREMANJU PLANA PARCELACIJE NA TERITO-
+RIJI KOJU OBUHVATA GENERALNI URBANISTICKI PLAN
+BEOGRADA, SL.L. 9/02,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3973</id>
+    <naziv>ODLUKA O PRIPREMNJU REGULACIONOG PLANA MREZE 
+ELEKTROENERGETSKIH OBJEKATA NA TERITORIJI GENE-
+RALNOG URBANISTICKOG PLANA BEOGRADA, SL.L. 9/02,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3974</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA MREZE
+JAVNIH GARAZA NA TERITORIJI GENERALNOG URBANIS-
+TICKOG PLANA BEOGRADA, SL.L. 9/02,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>3992</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA MREZE I
+OBJEKATA U FUNKCIJI TELEKOMUNIKACIJA I KABLOVSKOG
+DISTRIBUTIVNOG SISTEMA NA TERITORIJI GENERALNOG
+URBANISTICKOG PLANA BEOGRADA, SL.L. 13/02</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4054</id>
+    <naziv>ODLUKA O IZMENAMA I DOPUNAMA ODLUKE O GRADJEVIN-
+SKOM ZEMLJISTU, SL.L. 27/02</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4064</id>
+    <naziv>ZAKLJUCAK O PRIPREMANJU REGULACIONOG PLANA ZA DEO
+PODRUCJA CENTRALNE ZONE - BLOK 11B I DELOVI BLOKO
+VA 9A I 11C U NOVOM BEOGRADU I ZEMUNU, SL.L.27/02</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  747</kart>
+  </Predmet>
+  <Predmet>
+    <id>4075</id>
+    <naziv>PLAN POSTAVLJANJA PRIVREMENIH OBJEKATA NA JAVNIM
+POVRSINAMA U BEOGRADU (PODRUCJE OPSTINE ZEMUN),
+SL.L. 30/02</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4150</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA PROSTORA
+IZMEDJU ULICA: CARA DUSANA, SAOBRACAJNICE T6, 
+LESNOG ODSEKA DUNAVA, ZEMUNSKOG GROBLJA I GRANICE
+REGULACIONOG PLANA STAROG JEZGRA ZEMUNA - PREGRE-
+VICA, OPSTINA ZEMUN, SL.L. 12/03</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  759</kart>
+  </Predmet>
+  <Predmet>
+    <id>4151</id>
+    <naziv>ODLUKA O PRIPREMANJU REGULACIONOG PLANA ZA IZGRAD-
+NJU MAGISTRALNOG TOPLOVODA OD KOTLARNICE U NASELJU
+"SAVA KOVACEVIC" DO GREJNOG PODRUCJA TOPLANE "NOVI
+BEOGRAD", SL.L. 12/03</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  760</kart>
+  </Predmet>
+  <Predmet>
+    <id>4152</id>
+    <naziv>REGULACIONI PLAN ZA GASIFIKACIJU NASELJA BATAJNICA
+SL.L. 12/03</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1070</kart>
+  </Predmet>
+  <Predmet>
+    <id>4158</id>
+    <naziv>ZAKLJUCAK O PRISTUPANJU IZRADI REGULACIONOG PLANA
+DELA CENTRALNE ZONE - SEVERNI DEO I MESNE ZAJEDNI
+CE U ZEMUNU IZMEDJU ULICA: DJURE DJAKOVICA, KARA-
+DJORDJEVE, PRODUZETKA ULICE DZONA KENEDIJA I KEJA
+OSLOBODJENJA, SL.L. 12/03</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  762</kart>
+  </Predmet>
+  <Predmet>
+    <id>4172</id>
+    <naziv>ODLUKA O GRADJEVINSKOM ZEMLJISTU, SL.L. 16/03</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4188</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O GRADJEVINSKOM ZEMLJISTU,
+SL.L. 18/03</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4189</id>
+    <naziv>IZMENA I DOPUNA PLANA POSTAVLJANJA PRIVREMENIH
+OBJEKATA NA JAVNIM POVRSINAMA U BEOGRADU - POD
+RUCJE OPSTINE ZEMUN, SL.L. 18/03</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4198</id>
+    <naziv>UREDBA O UTVRDJIVANJU PROSTORNOG PLANA PODRUCJA
+INFRASTRUKTURNOG KORIDORA GRANICA HRVATSKE-BEO-
+GRAD (DOBANOVCI), SL.GL.RS 69/03, ARH.BR. 
+350-729/06, BIBL.BR. 14/06, REG.BR. 4198
+</naziv>
+    <grupa>I PLANSKA DOKUMENTA</grupa>
+    <kart> 2025</kart>
+  </Predmet>
+  <Predmet>
+    <id>4199</id>
+    <naziv>UREDBA O UTVRDJIVANJU PROSTORNOG PLANA PODRUCJA
+INFRASTRUKTURNOG KORIDORA AUTOPUTA E-75 I SUBO-
+TICA-BEOGRAD (BATAJNICA), SL.GL.RS 69/03, ARH.BR.
+350-730/06, BIBL.BR. 15/06, REG.BR. 4199
+
+
+</naziv>
+    <grupa>I PLANSKA DOKUMENTA</grupa>
+    <kart> 2026</kart>
+  </Predmet>
+  <Predmet>
+    <id>4231</id>
+    <naziv>GENERALNI PLAN BEOGRADA 2021., SL.L. 27/03</naziv>
+    <grupa>II OPSTI URBANISTICKI PLANOVI</grupa>
+    <kart> 2021</kart>
+    <IzDop>
+      <id>4231</id>
+      <opis>IZMENE GENERALNOG PLANA BEOGRADA 2021.(izmene
+GP. 2005/1), SL.L. 25/05</opis>
+    </IzDop>
+    <IzDop>
+      <id>4231</id>
+      <opis>IZMENE I DOPUNE GENERALNOG PLANA BEOGRADA 2021 - FAZA 1* 
+(lokacija Ambasade SAD), SL.L. 34/07</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>4245</id>
+    <naziv>ODLUKA O ODREDJIVANJU URBANISTICKIH PLANOVA KOJI
+U CELINI ILI U DELOVIMA NISU U SUPROTNOSTI SA ZA
+KONOM O PLANIRANJU I IZGRADNJI, SL.L. 30/03</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+    <IzDop>
+      <id>4245</id>
+      <opis>ISPRAVKA, SL.L. 33/03</opis>
+    </IzDop>
+    <IzDop>
+      <id>4245</id>
+      <opis>ODLUKA O IZMENI I DOPUNI ODLUKE O ODREDJIVANJU 
+URBANISTICKIH PLANOVA KOJI U CELINI ILI U DELOVIMA
+NISU U SUPROTNOSTI SA ZAKONOM O PLANIRANJU I IZGR-
+ADNJI, SL.L. 23/04</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>4246</id>
+    <naziv>ODLUKA O PRIVREMENIM PRAVILIMA I USLOVIMA ZA IZDA
+VANJE ODOBRENJA ZA IZGRADNJU I UPOTREBNU DOZVOLU
+ZA OBJEKTE IZGRADJENE, ODNOSNO REKONSTRUISANE BEZ
+GRADJEVINSKE DOZVOLE DO 13. MAJA 2003. GODINE,
+SL.L. 30/03</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4248</id>
+    <naziv>PRAVILNIK O PRIMENI PRAVILA GRADJENJA GASNIH MER
+NO-REGULACIONIH STANICA I DISTRIBUTIVNOG GASOVODA
+ZA RADNI PRITISAK DO CETIRI BARA, SL.L. 30/03</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4255</id>
+    <naziv>PLAN DETALJNE REGULACIJE BLOKA 51 U NOVOM BEOGRADU
+(prva faza), SL.L. 31/03</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1088</kart>
+  </Predmet>
+  <Predmet>
+    <id>4262</id>
+    <naziv>ODLUKA O IZMENAMA I DOPUNAMA ODLUKE O PRIVREMENIM
+PRAVILIMA I USLOVIMA ZA IZDAVANJE ODOBRENJA ZA
+IZGRADNJU I UPOTREBNU DOZVOLU ZA OBJEKTE IZGRADJE
+NE, ODNOSNO REKONSTRUISANE BEZ GRADJEVINSKE DOZVO
+LE DO 13. MAJA 2003. GODINE, SL.L. 33/03</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4263</id>
+    <naziv>ISPRAVKA ODLUKE O ODREDJIVANJU URBANISTICKIH PLA-
+NOVA KOJI U CELINI ILI U DELOVIMA NISU U SUPROT-
+NOSTI SA ZAKONOM O PLANIRANJU I IZGRADNJI, SL.L.
+33/0</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+    <IzDop>
+      <id>4263</id>
+      <opis>ODLUKA O IZMENI I DOPUNI ODLUKE O ODREDJIVANJU 
+URBANISTICKIH PLANOVA KOJI U CELINI ILI U DELIVIMA
+NISU U SUPROTNOSTI SA ZAKONOM O PLANIRANJU I IZGR-
+ADNJI, SL.L.23/04,</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>4264</id>
+    <naziv>PRAVILNIK O PRIVREMENIM PRAVILIMA GRADJENJA STA-
+NICA ZA SNABDEVANJE TECNIM GASOM, SL.L. 16/03</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4265</id>
+    <naziv>PLAN DETALJNE REGULACIJE STAROG JEZGRA ZEMUNA,
+SL.L. 34/03</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1083</kart>
+  </Predmet>
+  <Predmet>
+    <id>4266</id>
+    <naziv>PLAN DETALJNE REGULACIJE KOMPLEKSA IZMEDJU ULICA
+JAKUBA KUBUROVICA, NOVOGRADSKE, UGRINOVACKE I IVI
+CEVE U ZEMUNU, SL.L. 34/03</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1081</kart>
+  </Predmet>
+  <Predmet>
+    <id>4271</id>
+    <naziv>PLAN DETALJNE REGULACIJE PRIVREDNE ZONE GORNJI
+ZEMUN - ZONE 1 i 2, SL.L. 34/03</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1084</kart>
+    <IzDop>
+      <id>4271</id>
+      <opis>PROMENJEN - FAKTICKI ALI NE I FORMALNO STAVLJEN 
+VAN SNAGE PLANOM DETALJNE REGULACIJE PRIVREDNE 
+ZONE GORNJI ZEMUN - ZONE 3 i 4, SL.L. 14/05</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>4277</id>
+    <naziv>ODLUKA O IZMENAMA I DOPUNAMA ODLUKE O GRADJEVIN
+SKOM ZEMLJISTU, SL.L. 2/04,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4281</id>
+    <naziv>RESENJE O PROMENI NAZIVA ULICA NA TERITORIJI GRAD
+SKIH OPSTINA: ZVEZDARA, PALILULA, SAVSKI VENAC,
+VRACAR, VOZDOVAC, ZEMUN, CUKARICA I RAKOVICA, SL.
+L. 2/04, REG.BR. 4281
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4293</id>
+    <naziv>ODLUKA O IZMENAMA I DOPUNAMA ODLUKE O PRIVREMENIM
+PRAVILIMA I USLOVIMA ZA IZDAVANJE ODOBRENJA ZA
+IZGRADNJU I UPOTREBNU DOZVOLU ZA OBJEKTE IZGRADJE
+NE, ODNOSNO REKONSTRUISANE BEZ GRADJEVINSKE DOZVO
+LE DO 13. MAJA 2003. GODINE, SL.L. 5/04,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4294</id>
+    <naziv>RESENJE O PROMENI NAZIVA ULICA NA TERITORIJI GRAD
+SKIH OPSTINA: ZEMUN, ZVEZDARA, VRACAR, PALILULA,
+SAVSKI VENAC, RAKOVICA I CUKARICA, SL.L. 5/04,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4310</id>
+    <naziv>PRAVILNIK O DOPUNI PRAVILNIKA O PRIVREMENIM 
+PRAVILIMA GRADJENJA STANICE ZA SNABDEVANJE 
+TECNIM GORIVOM, SL.L.9/04, </naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4317</id>
+    <naziv>REGIONALNI PROSTORNI PLAN ADMINISTRATIVNOG 
+PODRUCJA GRADA BEOGRADA, SL.L. 10/04</naziv>
+    <grupa>I PLANSKA DOKUMENTA</grupa>
+    <kart> 2020</kart>
+  </Predmet>
+  <Predmet>
+    <id>4358</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O ODREDJIVANJU 
+URBANISTICKIH PLANOVA KOJI U CELINI ILI U DELOVIMA
+NISU U SUPROTNOSTI SA ZAKONOM O PLANIRANJU I IZGR-
+ADNJI, SL.L. 23/04</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4397</id>
+    <naziv>PLAN DETALJNE REGULACIJE STAMBENOG NASELJA 
+"ALTINA" U ZEMUNU, SL.L. 4/05,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1125</kart>
+  </Predmet>
+  <Predmet>
+    <id>4406</id>
+    <naziv>RESENJE O STAVLJANJU POD ZASTITU PRIRODNOG DOBRA
+"VELIKO RATNO OSTRVO", SL.L. 7/05,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4410</id>
+    <naziv>ODLUKA O IZRADI IZMENA GENERALNOG PLANA BEOGRADA 
+2021.(izmene GP 2005/1), SL.L. 8/05,</naziv>
+    <grupa>II OPSTI URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4422</id>
+    <naziv>RESENJE O PROMENI NAZIVA ULICA NA TERITORIJI 
+GRADSKIH OPSTINA: VRACAR, ZVEZDARA, ZEMUN, 
+PALILULA, RAKOVICA, SAVSKI VENAC, CUKARICA, 
+SL.L. 8/05,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4434</id>
+    <naziv>ODLUKA O IZRADI PLANA DETALJNE REGULACIJE ZA PRIV-
+REDNU ZONU "AUTOPUT", U NOVOM BEOGRADU, ZEMUNU I 
+SURCINU, SL.L. 11/05</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  794</kart>
+  </Predmet>
+  <Predmet>
+    <id>4435</id>
+    <naziv>ODLUKA O IZRADI PLANA GENERALNE REGULACIJE ZA 
+IZRADU GASNE MREZE I OBJEKATA U BEOGRADU, SL.L.
+11/0</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  831</kart>
+  </Predmet>
+  <Predmet>
+    <id>4436</id>
+    <naziv>ODLUKA O IZRADI PLANA DETALJNE REGULACIJE 
+POSLOVNO-PRIVREDNOG KOMPLEKSA "KLISINA" U
+BATAJNICI, SL.L. 11/05</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  795</kart>
+  </Predmet>
+  <Predmet>
+    <id>4441</id>
+    <naziv>RESENJE O NEPRISTUPANJU STRATESKOJ PROCENI 
+UTICAJA NA ZIVOTNU SREDINU "PLANA DETALJNE
+REGULACIJE PRIVREDNE ZONE GORNJI ZEMUN -
+ZONE 3 I 4", SL.L. 11/05</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4457</id>
+    <naziv>PLAN DETALJNE REGULACIJE PRIVREDNE ZONE GORNJI 
+ZEMUN - ZONE 3 i 4, SL.L.14/05,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1133</kart>
+  </Predmet>
+  <Predmet>
+    <id>4497</id>
+    <naziv>RESENJE O NEPRISTUPANJU IZRADI STRATESKE PROCENE 
+UTICAJA NA ZIVOTNU SREDINU IZMENA GENERALNOG 
+PLANA BEOGRADA 2021. (IZMENE GP 2005/1), SL.L.
+19/0</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4526</id>
+    <naziv>RESENJE O PRISTUPANJU STRATESKOJ PROCENI UTICAJA 
+NA ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE POSL-
+OVNO-PRIVREDNOG KOMPLEKSA "KLISINA" U BATAJNICI,
+SL.L. 24/05</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4528</id>
+    <naziv>RESENJE O NEPRISTUANJU STRATESKOJ PROCENI UTICAJA 
+NA ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE DELA
+CENTRALNE ZONE - SEVERNI DEO PRVE MESNE ZAJEDNICE
+U ZEMUNU IZMEDJU ULICA: DJURE DJAKOVICA, KARADJO-
+RDJEVE, PRODUZETKA ULICE DZONA KENEDIJA I KEJA 
+OSLOBODJENJA, SL.L. 24/05</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4531</id>
+    <naziv>IZMENA GENERALNOG PLANA BEOGRADA 2021.(izmene GP.
+2005/1), SL.L. 25/05</naziv>
+    <grupa>II OPSTI URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4541</id>
+    <naziv>ODLUKA O UTVRDJIVANJU EVANGELICKE CRKVE U ZEMUNU 
+ZA SPOMENIK KULTURE, SL.GL.RS 108/05, REG.BR. 
+4541
+
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4542</id>
+    <naziv>ODLUKA O UTVRDJIVANJU CRKVE SVETOG JOVANA PRETECE
+U PETROVCICU ZA SPOMENIK KULTURE, SL.GL.RS 108/05,
+REG.BR. 4542
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4543</id>
+    <naziv>ODLUKA O UTVRDJIVANJU CRKVE SVETE PARASKEVE U 
+BOLJEVCIMA ZA SPOMENI KULTURE, SL.GL.RS 108/05,
+REG.BR. 4543
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4544</id>
+    <naziv>ODLUKA O UTVRDJIVANJU CRKVE SVETOG GEORGIJA U 
+UGRINOVCIMA ZA SPOMENIK KULTURE, SL.GL.RS 108/05,
+REG.BR. 4544
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4568</id>
+    <naziv>ODLUKA O IZRADI PLANA DETALJNE REGULACIJE ZA DVE 
+BENZINSKE STANICE SA MOTELOM NA KORIDORU AUTOPUTA 
+E-70 (KOMPLEKSI "DOBANOVCI SEVER" I "DOBANOVCI 
+JUG"), OPSTINA ZEMUN, BEOGRAD, SL.L. 30/05</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  807</kart>
+  </Predmet>
+  <Predmet>
+    <id>4577</id>
+    <naziv>RESENJE O PRISTUPANJU STRATESKOJ PROCENI UTICAJA 
+NA ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE DVE 
+BENZINSKE STANICE SA MOTELOM NA KORIDORU AUTOPUTA
+E70 (KOMPLEKSI "DOBANOVCI-SEVER" I DOBANOVCI-JUG)
+SL.L. 1/06,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4584</id>
+    <naziv>RESENJE O NEPRISTUPANJU STRATESKOJ PROCENI 
+UTICAJA NA ZIVOTNU SREDINU PLANA DETALJNE 
+REGULACIJE ZA DEO PODRUCJA CENTRALNE ZONE -
+BLOK 11B I DEO BLOKOVA 9A I 11C U NOVOM
+BEOGRADU, SL.L. 1/06,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4591</id>
+    <naziv>ODLUKA O IZMENI I DOPUNI ODLUKE O GRADJEVINSKOM
+ZEMLJISTU, SL.L. 3/06,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4605</id>
+    <naziv>RESENJE O PRISTUPANJU STRATESKOJ PROCENI UTICAJA
+NA ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE ZA
+PRIVREDNU ZONU "AUTOPUT", U NOVOM BEOGRADU, 
+ZEMUNU I SURCINU, SL.L. 5/06,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4624</id>
+    <naziv>ODLUKA O IZRADI PLANA DETALJNE REGULACIJE DEONICE
+AUTOPUTA E-75 BATAJNICA-DOBANOVCI I DEONICE 
+AUTOPUTA E-70 SA LOKACIJOM NAPLATNE RAMPE I PETLJE
+ZA AERODROM "NIKOLA TESLA" U ZEMUNU I SURCINU, 
+SL.L. 9/06,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  813</kart>
+  </Predmet>
+  <Predmet>
+    <id>4625</id>
+    <naziv>ODLUKA O IZRADI PLANA DETALJNE REGULACIJE DELA 
+MAGISTRALNE SAOBRACAJNICE T6 OD NOVOG NOVOSADSKOG 
+PUTA DO ULICE CARA DUSANA U ZEMUNU, SL.L. 9/06,</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  814</kart>
+  </Predmet>
+  <Predmet>
+    <id>4657</id>
+    <naziv>PLAN DETALJNE REGULACIJE POSLOVNO-PRIVREDNOG 
+KOMPLEKSA "KLISINA" U BATAJNICI, SL.L. 12/06</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1153</kart>
+  </Predmet>
+  <Predmet>
+    <id>4658</id>
+    <naziv>RESENJE O PROMENI NAZIVA ULICA NA TERITORIJI 
+GRADSKIH OPSTINA - ZVEZDARA, ZEMUN, NOVI BEOGRAD,
+SL.L. 12/06</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4670</id>
+    <naziv>RESENJE O PRISTUPANJU STRATESKOJ PROCENI UTICAJA 
+NA ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE 
+DEONICE AUTOPUTA E-75 BATAJNICA-DOBANOVCI I 
+DEONICE AUTOPUTA E-70 SA LOKACIJOM NAPLATNE RAMPE
+I PETLJE ZA AERODROM "NIKOLA TESLA" U ZEMUNU I 
+SURCINU, SL.L. 16/06</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4671</id>
+    <naziv>RESENJE O PRISTUPANJU STRATESKOJ PROCENI UTICAJA 
+NA ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE DELA
+MAGISTRALNE SAOBRACAJNICE T6 OD NOVOG NOVOSADSKOG
+PUTA DO ULICE CARA DUSANA U ZEMUNU, SL.L. 16/06</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4681</id>
+    <naziv>PLAN DETALJNE REGULACIJE ZA DVE BENZINSKE STANICE 
+SA MOTELOM NA KORIDORU AUTOPUTA E70 (KOMPLEKSI
+"DOBANOVCI-SEVER" I "DOBANOVCI-JUG") - OPSTINA 
+ZEMUN, BEOGRAD, SL.L. 18/06</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart> 1157</kart>
+  </Predmet>
+  <Predmet>
+    <id>4697</id>
+    <naziv>ODLUKA O IZRADI IZMENA I DOPUNA GENERALNOG PLANA
+BEOGRADA 2021.(izmena i dopuna GP 2/2006), 
+SL.L. 24/06</naziv>
+    <grupa>II OPSTI URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4700</id>
+    <naziv>ODLUKA O POSTAVLJANJU SKULPTURE "JUTRO", 
+SL.L.24/06,</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4704</id>
+    <naziv>RESENJE O PROMENI NAZIVA ULICA NA TERITORIJI 
+GRADSKIH OPSTINA: PALILULA, ZVEZDARA, ZEMUN, 
+SL.L. 24/06</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4728</id>
+    <naziv>RESENJE O NEPRISTUPANJU STRATESKOJ PROCENI UTICAJA
+NA ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE PROS-
+TORNE CELINE IZMEDJU ULICE CARA DUSANA, SAOBRACAJ-
+NICE T6, LESNOG ODSEKA DUNAVA, ZEMUNSKOG GROBLJA I 
+GRANICE REGULACIONOG PLANA STAROG JEZGRA ZEMUNA - ì
+PREGREVICA, OPSTINA ZEMUN, SL.L. 28/06</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4729</id>
+    <naziv>RESENJE O PRISTUPANJU STRATESKOJ PROCENI UTICAJA 
+NA ZIVOTNU SREDINU IZMENA I DOPUNA GENERALNOG 
+PLANA BEOHGRADA 2021 (IZMENA I DOPUNA GP 2/2006), 
+SL.L. 28/06</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4752</id>
+    <naziv>ODLUKA O UTVRDJIVANJU ZGRADE KOMANDE VAZDUHOPLO-
+VSTVA U ZEMUNU ZA SPOMENIK KULTURE, SL.GL.RS 
+30/07, REG.BR. 4752
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4781</id>
+    <naziv>ODLUKA O IZRADI PLANA GENERALNE REGULACIJE MREZE 
+JAVNIH GARAZA, SL.L. 15/07</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  822</kart>
+    <IzDop>
+      <id>4781</id>
+      <opis>ODLUKA O IZMENI ODLUKE, SL.L. 20/07</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>4782</id>
+    <naziv>ODLUKA O IZRADI PLANA GENERALNE REGULACIJE MREZE 
+STANICA ZA SNABDEVANJE GORIVOM, SL.L. 15/07</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  823</kart>
+    <IzDop>
+      <id>4782</id>
+      <opis>ODLUKA O IZMENI ODLUKE, SL.L. 20/07</opis>
+    </IzDop>
+  </Predmet>
+  <Predmet>
+    <id>4815</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O IZRADI PLANA GENERALNE 
+REGULACIJE MREZE STANICA ZA SNABDEVANJE GORIVOM, 
+SL.L. 20/07</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4816</id>
+    <naziv>ODLUKA O IZMENI ODLUKE O IZRADI PLANA GENERALNE 
+REGULACOJE MREZE JAVNIH GARAZA, SL.L. 20/07</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4820</id>
+    <naziv>ODLUKA O UTVRDJIVANJU ZGRADE DECIJEG DOMA KRALJICE 
+MARIJE U ZEMUNU ZA SPOMENIK KULTURE, SL.GL.RS 55/07, 
+REG.BR. 4820</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4821</id>
+    <naziv>ODLUKA O UTVRDJIVANJU OSNOVNE SKOLE "KRALJICE MARIJE"
+U ZEMUNU ZA SPOMENIK KULTURE, SL.GL.RS 55/07, 
+REG.BR. 4821
+</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4847</id>
+    <naziv>RESENJE O PRISTUPANJU STRATESKOJ PROCENI UTICAJA NA 
+ZIVOTNU SREDINU PLANA GENERALNE REGULACIJE MREZE 
+STANICA ZA SNABDEVANJE GORIVOM, SL.L. 26/07</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4848</id>
+    <naziv>RESENJE O PRISTUPANJU STRATESKOJ PROCENI UTICAJA NA 
+ZIVOTNU SREDINU PLANA GENERALNE REGULACIJE MREZE 
+JAVNIH GARAZA,  SL.L. 26/07</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4865</id>
+    <naziv>ODLUKA O IZRADI PLANA DETALJNE REGULACIJE LRT-a NA POTEZU 
+OD TRGA NIKOLE PASICA DO TVORNICKE ULICE SA TEHNICKOM 
+VEZOM SA DEPOOM U BLOKU 66 U NOVOM BEOGRADU, SL.L. 30/07</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  832</kart>
+  </Predmet>
+  <Predmet>
+    <id>4867</id>
+    <naziv>ODLUKA O IZRADI PLANA DETALJNE REGULACIJE NASELJA "PLAVI 
+HORIZONTI", OPSTINA ZEMUN, SL.L. 30/07</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart>  834</kart>
+  </Predmet>
+  <Predmet>
+    <id>4879</id>
+    <naziv>RESENJE O NEPRISTUPANJU STRATESKOJ PROCENI UTICAJA NA 
+ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE ZA IZGRADNJU 
+MAGISTRALNOG TOPLOVODA OD KOTLARNICE "SAVA KOVACEVIC" 
+DO GREJNOG PODRUCJA TOPLANE NOVOG BEOGRADA, 
+SL.L. 34/07</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4880</id>
+    <naziv>RESENJE O PRISTUPANJU STRATESKOJ PROCENI UTICAJA NA 
+ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE LRT-a NA 
+POTEZU OD TRGA NIKOLE PASICA DO TVORNICKE ULICE SA 
+TEHNICKOM VEZOM SA DEPOOM U BLOKU 66 U NOVOM 
+BEOGRADU, SL.L. 34/07</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4883</id>
+    <naziv>RESENJE O NEPRISTUPANJU STRATESKOJ PROCENI UTICAJA NA 
+ZIVOTNU SREDINU PLANA DETALJNE REGULACIJE NASELJA 
+"PLAVI HORIZONTI", OPSTINA ZEMUN, SL.L. 35/07</naziv>
+    <grupa>III DRUGI PROPISI</grupa>
+    <kart />
+  </Predmet>
+  <Predmet>
+    <id>4893</id>
+    <naziv>ODLUKA O IZRADI PLANA DETALJNE REGULACIJE ZA NASELJE 
+GRMOVAC, OPSTINA ZEMUN, SL.L. 40/07</naziv>
+    <grupa>IV URBANISTICKI PLANOVI</grupa>
+    <kart />
+  </Predmet>
+  <Params>
+    <naziv>Mora da uspe</naziv>
+  </Params>
+</dsIzvestaj>

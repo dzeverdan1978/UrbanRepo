@@ -1,0 +1,33 @@
+C:\Urban\Urban\URBEL\Urban\Urban\bin\Debug\Urban.exe.config
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.exe
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.pdb
+C:\Urban\Urban\URBEL\Urban\Urban\bin\Debug\Urban.exe
+C:\Urban\Urban\URBEL\Urban\Urban\bin\Debug\Urban.pdb
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\ResolveAssemblyReference.cache
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.Form1.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmDOC.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmDOCPretraga.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmIzvestaj.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmIzvSettings.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmKorisnici.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmNaziv.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPocetak.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPregledUticaji.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPretraga.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPretragaZaduzenja.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmProgrami.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmRezultat.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmSearchProg.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmSignOn.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmSnimanje.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmUticaji.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmZaduzenja.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.Properties.Resources.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmObrad.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmDosije.resources
+C:\Urban\Urban\URBEL\Urban\Urban\obj\Debug\Urban.frmPretragaDosije.resources
+C:\Urbanisticki zavod\Urban\URBEL\Urban\Urban\bin\Debug\Urban.exe.config
+C:\Urbanisticki zavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.exe
+C:\Urbanisticki zavod\Urban\URBEL\Urban\Urban\obj\Debug\Urban.pdb
